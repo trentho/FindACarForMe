@@ -1,0 +1,11 @@
+# Credentials for the API
+/SECRET_KEY.json
+
+# Elastic Beanstalk Files
+.elasticbeanstalk/*
+!.elasticbeanstalk/*.cfg.yml
+!.elasticbeanstalk/*.global.yml
+
+# Python Files
+venv
+__pycache__

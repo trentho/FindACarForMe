@@ -1,0 +1,7044 @@
+[
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Acura ILX 4 DR FWD",
+                "VehicleId": 16483
+            }
+        ]
+    },
+    {
+        "Count": 2,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Acura MDX SUV AWD",
+                "VehicleId": 15925
+            },
+            {
+                "VehicleDescription": "2022 Acura MDX SUV FWD",
+                "VehicleId": 15924
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Acura NSX 2 DR AWD",
+                "VehicleId": 17013
+            }
+        ]
+    },
+    {
+        "Count": 2,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Acura RDX SUV AWD",
+                "VehicleId": 16838
+            },
+            {
+                "VehicleDescription": "2022 Acura RDX SUV FWD",
+                "VehicleId": 16837
+            }
+        ]
+    },
+    {
+        "Count": 2,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Acura TLX 4 DR AWD",
+                "VehicleId": 16488
+            },
+            {
+                "VehicleDescription": "2022 Acura TLX 4 DR FWD",
+                "VehicleId": 16484
+            }
+        ]
+    },
+    {
+        "Count": 2,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Alfa Giulia 4 DR AWD",
+                "VehicleId": 16476
+            },
+            {
+                "VehicleDescription": "2022 Alfa Giulia 4 DR RWD",
+                "VehicleId": 16452
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Alfa Giulia Quadrifoglio 4 DR RWD",
+                "VehicleId": 16453
+            }
+        ]
+    },
+    {
+        "Count": 2,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Alfa Stelvio SUV AWD",
+                "VehicleId": 16477
+            },
+            {
+                "VehicleDescription": "2022 Alfa Stelvio SUV RWD",
+                "VehicleId": 16454
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Alfa Stelvio Quadrifoglio SUV AWD",
+                "VehicleId": 16455
+            }
+        ]
+    },
+    {
+        "Count": 2,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Audi Audi A3 4 DR AWD",
+                "VehicleId": 16588
+            },
+            {
+                "VehicleDescription": "2022 Audi Audi A3 4 DR FWD",
+                "VehicleId": 16539
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Audi Audi A4 4 DR AWD",
+                "VehicleId": 16542
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Audi Audi A4 allroad SW AWD",
+                "VehicleId": 16544
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Audi Audi A5 2 DR AWD",
+                "VehicleId": 16547
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Audi Audi A5 Cabriolet C AWD",
+                "VehicleId": 16545
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Audi Audi A5 Sportback 4 DR AWD",
+                "VehicleId": 16550
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Audi Audi A6 4 DR AWD",
+                "VehicleId": 16555
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Audi Audi A6 allroad SW AWD",
+                "VehicleId": 16553
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Audi Audi A7 4 DR AWD",
+                "VehicleId": 16557
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Audi Audi A7 PHEV 4 DR AWD",
+                "VehicleId": 16558
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Audi Audi A8 LWB 4 DR AWD",
+                "VehicleId": 16561
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Audi Audi e-tron SUV AWD",
+                "VehicleId": 16563
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Audi Audi e-tron GT 4 DR AWD",
+                "VehicleId": 16567
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Audi Audi e-tron S SUV AWD",
+                "VehicleId": 16564
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Audi Audi e-tron S Sportback SUV AWD",
+                "VehicleId": 16566
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Audi Audi e-tron Sportback SUV AWD",
+                "VehicleId": 16565
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Audi Audi Q3 SUV AWD",
+                "VehicleId": 16569
+            }
+        ]
+    },
+    {
+        "Count": 2,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Audi Audi Q4 e-tron SUV AWD",
+                "VehicleId": 16589
+            },
+            {
+                "VehicleDescription": "2022 Audi Audi Q4 e-tron SUV RWD",
+                "VehicleId": 16570
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Audi Audi Q4 Sportback e-tron SUV AWD",
+                "VehicleId": 16571
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Audi Audi Q5 SUV AWD",
+                "VehicleId": 16572
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Audi Audi Q5 PHEV SUV AWD",
+                "VehicleId": 16574
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Audi Audi Q5 Sportback SUV AWD",
+                "VehicleId": 16575
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Audi Audi Q7 SUV AWD",
+                "VehicleId": 16577
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Audi Audi Q8 SUV AWD",
+                "VehicleId": 16579
+            }
+        ]
+    },
+    {
+        "Count": 2,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Audi Audi R8 2 DR AWD",
+                "VehicleId": 16590
+            },
+            {
+                "VehicleDescription": "2022 Audi Audi R8 2 DR RWD",
+                "VehicleId": 16582
+            }
+        ]
+    },
+    {
+        "Count": 2,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Audi Audi R8 Spyder C AWD",
+                "VehicleId": 16591
+            },
+            {
+                "VehicleDescription": "2022 Audi Audi R8 Spyder C RWD",
+                "VehicleId": 16583
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Audi Audi RS 3 4 DR AWD",
+                "VehicleId": 16541
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Audi Audi RS 5 2 DR AWD",
+                "VehicleId": 16549
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Audi Audi RS 5 Sportback 4 DR AWD",
+                "VehicleId": 16552
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Audi Audi RS 6 Avant SW AWD",
+                "VehicleId": 16554
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Audi Audi RS 7 4 DR AWD",
+                "VehicleId": 16560
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Audi Audi RS e-tron GT 4 DR AWD",
+                "VehicleId": 16568
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Audi Audi RS Q8 SUV AWD",
+                "VehicleId": 16581
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Audi Audi S3 4 DR AWD",
+                "VehicleId": 16540
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Audi Audi S4 4 DR AWD",
+                "VehicleId": 16543
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Audi Audi S5 2 DR AWD",
+                "VehicleId": 16548
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Audi Audi S5 Cabriolet C AWD",
+                "VehicleId": 16546
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Audi Audi S5 Sportback 4 DR AWD",
+                "VehicleId": 16551
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Audi Audi S6 4 DR AWD",
+                "VehicleId": 16556
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Audi Audi S7 4 DR AWD",
+                "VehicleId": 16559
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Audi Audi S8 LWB 4 DR AWD",
+                "VehicleId": 16562
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Audi Audi SQ5 SUV AWD",
+                "VehicleId": 16573
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Audi Audi SQ5 Sportback SUV AWD",
+                "VehicleId": 16576
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Audi Audi SQ7 SUV AWD",
+                "VehicleId": 16578
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Audi Audi SQ8 SUV AWD",
+                "VehicleId": 16580
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Audi Audi TT 2 DR AWD",
+                "VehicleId": 16584
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Audi Audi TT Roadster C AWD",
+                "VehicleId": 16587
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Audi Audi TT RS 2 DR AWD",
+                "VehicleId": 16586
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Audi Audi TTS 2 DR AWD",
+                "VehicleId": 16585
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Bentley Bentayga Hybrid SUV AWD",
+                "VehicleId": 16522
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Bentley Bentayga Speed SUV AWD",
+                "VehicleId": 16523
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Bentley Bentayga V8 SUV AWD",
+                "VehicleId": 16521
+            }
+        ]
+    },
+    {
+        "Count": 2,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Bentley Continental GT C AWD",
+                "VehicleId": 16527
+            },
+            {
+                "VehicleDescription": "2022 Bentley Continental GT 2 DR AWD",
+                "VehicleId": 16524
+            }
+        ]
+    },
+    {
+        "Count": 2,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Bentley Continental GT Speed C AWD",
+                "VehicleId": 16529
+            },
+            {
+                "VehicleDescription": "2022 Bentley Continental GT Speed 2 DR AWD",
+                "VehicleId": 16526
+            }
+        ]
+    },
+    {
+        "Count": 2,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Bentley Continental GT V8 C AWD",
+                "VehicleId": 16528
+            },
+            {
+                "VehicleDescription": "2022 Bentley Continental GT V8 2 DR AWD",
+                "VehicleId": 16525
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Bentley Flying Spur 4 DR AWD",
+                "VehicleId": 16530
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Bentley Flying Spur Hybrid 4 DR AWD",
+                "VehicleId": 16532
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Bentley Flying Spur V8 4 DR AWD",
+                "VehicleId": 16531
+            }
+        ]
+    },
+    {
+        "Count": 2,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 BMW 2 Series Coupe 2 DR AWD",
+                "VehicleId": 17020
+            },
+            {
+                "VehicleDescription": "2022 BMW 2 Series Coupe 2 DR RWD",
+                "VehicleId": 17016
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 BMW 2 Series Gran Coupe 4 DR AWD",
+                "VehicleId": 16104
+            }
+        ]
+    },
+    {
+        "Count": 2,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 BMW 3 Series 4 DR AWD",
+                "VehicleId": 16196
+            },
+            {
+                "VehicleDescription": "2022 BMW 3 Series 4 DR RWD",
+                "VehicleId": 16105
+            }
+        ]
+    },
+    {
+        "Count": 2,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 BMW 330e 4 DR AWD",
+                "VehicleId": 16197
+            },
+            {
+                "VehicleDescription": "2022 BMW 330e 4 DR RWD",
+                "VehicleId": 16106
+            }
+        ]
+    },
+    {
+        "Count": 4,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 BMW 4 Series C AWD",
+                "VehicleId": 16200
+            },
+            {
+                "VehicleDescription": "2022 BMW 4 Series 2 DR AWD",
+                "VehicleId": 16199
+            },
+            {
+                "VehicleDescription": "2022 BMW 4 Series C RWD",
+                "VehicleId": 16110
+            },
+            {
+                "VehicleDescription": "2022 BMW 4 Series 2 DR RWD",
+                "VehicleId": 16108
+            }
+        ]
+    },
+    {
+        "Count": 2,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 BMW 4 Series Gran Coupe 4 DR AWD",
+                "VehicleId": 17022
+            },
+            {
+                "VehicleDescription": "2022 BMW 4 Series Gran Coupe 4 DR RWD",
+                "VehicleId": 17018
+            }
+        ]
+    },
+    {
+        "Count": 2,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 BMW 5 Series 4 DR AWD",
+                "VehicleId": 16201
+            },
+            {
+                "VehicleDescription": "2022 BMW 5 Series 4 DR RWD",
+                "VehicleId": 16111
+            }
+        ]
+    },
+    {
+        "Count": 2,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 BMW 530e 4 DR AWD",
+                "VehicleId": 16202
+            },
+            {
+                "VehicleDescription": "2022 BMW 530e 4 DR RWD",
+                "VehicleId": 16112
+            }
+        ]
+    },
+    {
+        "Count": 2,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 BMW 7 Series 4 DR AWD",
+                "VehicleId": 16203
+            },
+            {
+                "VehicleDescription": "2022 BMW 7 Series 4 DR RWD",
+                "VehicleId": 16114
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 BMW 745e xDrive 4 DR AWD",
+                "VehicleId": 16116
+            }
+        ]
+    },
+    {
+        "Count": 4,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 BMW 8 Series C AWD",
+                "VehicleId": 16205
+            },
+            {
+                "VehicleDescription": "2022 BMW 8 Series 2 DR AWD",
+                "VehicleId": 16204
+            },
+            {
+                "VehicleDescription": "2022 BMW 8 Series C RWD",
+                "VehicleId": 16119
+            },
+            {
+                "VehicleDescription": "2022 BMW 8 Series 2 DR RWD",
+                "VehicleId": 16117
+            }
+        ]
+    },
+    {
+        "Count": 2,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 BMW 8 Series Gran Coupe 4 DR AWD",
+                "VehicleId": 16206
+            },
+            {
+                "VehicleDescription": "2022 BMW 8 Series Gran Coupe 4 DR RWD",
+                "VehicleId": 16121
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 BMW ALPINA B7 xDrive 4 DR AWD",
+                "VehicleId": 16115
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 BMW ALPINA XB7 SUV AWD",
+                "VehicleId": 16135
+            }
+        ]
+    },
+    {
+        "Count": 2,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 BMW i4 4 DR AWD",
+                "VehicleId": 17023
+            },
+            {
+                "VehicleDescription": "2022 BMW i4 4 DR RWD",
+                "VehicleId": 17019
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 BMW iX SUV AWD",
+                "VehicleId": 17039
+            }
+        ]
+    },
+    {
+        "Count": 2,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 BMW M3 4 DR AWD",
+                "VehicleId": 16198
+            },
+            {
+                "VehicleDescription": "2022 BMW M3 4 DR RWD",
+                "VehicleId": 16107
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 BMW M4 2 DR RWD",
+                "VehicleId": 16109
+            }
+        ]
+    },
+    {
+        "Count": 2,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 BMW M4 Convertible C AWD",
+                "VehicleId": 17021
+            },
+            {
+                "VehicleDescription": "2022 BMW M4 Convertible C RWD",
+                "VehicleId": 17017
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 BMW M5 4 DR AWD",
+                "VehicleId": 16113
+            }
+        ]
+    },
+    {
+        "Count": 2,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 BMW M8 C AWD",
+                "VehicleId": 16120
+            },
+            {
+                "VehicleDescription": "2022 BMW M8 2 DR AWD",
+                "VehicleId": 16118
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 BMW M8 Gran Coupe 4 DR AWD",
+                "VehicleId": 16122
+            }
+        ]
+    },
+    {
+        "Count": 2,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 BMW X1 SUV AWD",
+                "VehicleId": 16207
+            },
+            {
+                "VehicleDescription": "2022 BMW X1 SUV FWD",
+                "VehicleId": 16123
+            }
+        ]
+    },
+    {
+        "Count": 2,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 BMW X2 SUV AWD",
+                "VehicleId": 16208
+            },
+            {
+                "VehicleDescription": "2022 BMW X2 SUV FWD",
+                "VehicleId": 16124
+            }
+        ]
+    },
+    {
+        "Count": 2,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 BMW X3 SUV AWD",
+                "VehicleId": 16209
+            },
+            {
+                "VehicleDescription": "2022 BMW X3 SUV RWD",
+                "VehicleId": 16125
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 BMW X3 M SUV AWD",
+                "VehicleId": 16126
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 BMW X4 SUV AWD",
+                "VehicleId": 16127
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 BMW X4 M SUV AWD",
+                "VehicleId": 16128
+            }
+        ]
+    },
+    {
+        "Count": 2,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 BMW X5 SUV AWD",
+                "VehicleId": 16210
+            },
+            {
+                "VehicleDescription": "2022 BMW X5 SUV RWD",
+                "VehicleId": 16129
+            }
+        ]
+    },
+    {
+        "Count": 2,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 BMW X5 Hybrid SUV AWD",
+                "VehicleId": 16211
+            },
+            {
+                "VehicleDescription": "2022 BMW X5 Hybrid SUV RWD",
+                "VehicleId": 16130
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 BMW X5 M SUV AWD",
+                "VehicleId": 16131
+            }
+        ]
+    },
+    {
+        "Count": 2,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 BMW X6 SUV AWD",
+                "VehicleId": 16212
+            },
+            {
+                "VehicleDescription": "2022 BMW X6 SUV RWD",
+                "VehicleId": 16132
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 BMW X6 M SUV AWD",
+                "VehicleId": 16133
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 BMW X7 SUV AWD",
+                "VehicleId": 16134
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 BMW Z4 C RWD",
+                "VehicleId": 16103
+            }
+        ]
+    },
+    {
+        "Count": 2,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Buick Enclave SUV FWD",
+                "VehicleId": 16278
+            },
+            {
+                "VehicleDescription": "2022 Buick Enclave SUV AWD",
+                "VehicleId": 16240
+            }
+        ]
+    },
+    {
+        "Count": 2,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Buick Encore SUV AWD",
+                "VehicleId": 16020
+            },
+            {
+                "VehicleDescription": "2022 Buick Encore SUV FWD",
+                "VehicleId": 16010
+            }
+        ]
+    },
+    {
+        "Count": 2,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Buick Encore GX SUV AWD",
+                "VehicleId": 16022
+            },
+            {
+                "VehicleDescription": "2022 Buick Encore GX SUV FWD",
+                "VehicleId": 16012
+            }
+        ]
+    },
+    {
+        "Count": 2,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Buick Envision SUV AWD",
+                "VehicleId": 16084
+            },
+            {
+                "VehicleDescription": "2022 Buick Envision SUV FWD",
+                "VehicleId": 16074
+            }
+        ]
+    },
+    {
+        "Count": 2,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Cadillac CT4 4 DR AWD",
+                "VehicleId": 16080
+            },
+            {
+                "VehicleDescription": "2022 Cadillac CT4 4 DR RWD",
+                "VehicleId": 16068
+            }
+        ]
+    },
+    {
+        "Count": 2,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Cadillac CT4-V 4 DR AWD",
+                "VehicleId": 16081
+            },
+            {
+                "VehicleDescription": "2022 Cadillac CT4-V 4 DR RWD",
+                "VehicleId": 16069
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Cadillac CT4-V Blackwing 4 DR RWD",
+                "VehicleId": 16070
+            }
+        ]
+    },
+    {
+        "Count": 2,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Cadillac CT5 4 DR AWD",
+                "VehicleId": 16082
+            },
+            {
+                "VehicleDescription": "2022 Cadillac CT5 4 DR RWD",
+                "VehicleId": 16071
+            }
+        ]
+    },
+    {
+        "Count": 2,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Cadillac CT5-V 4 DR AWD",
+                "VehicleId": 16083
+            },
+            {
+                "VehicleDescription": "2022 Cadillac CT5-V 4 DR RWD",
+                "VehicleId": 16072
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Cadillac CT5-V Blackwing 4 DR RWD",
+                "VehicleId": 16073
+            }
+        ]
+    },
+    {
+        "Count": 2,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Cadillac Escalade SUV 2WD",
+                "VehicleId": 16281
+            },
+            {
+                "VehicleDescription": "2022 Cadillac Escalade SUV 4WD",
+                "VehicleId": 16243
+            }
+        ]
+    },
+    {
+        "Count": 2,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Cadillac Escalade ESV SUV 2WD",
+                "VehicleId": 16284
+            },
+            {
+                "VehicleDescription": "2022 Cadillac Escalade ESV SUV 4WD",
+                "VehicleId": 16246
+            }
+        ]
+    },
+    {
+        "Count": 2,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Cadillac XT4 SUV AWD",
+                "VehicleId": 16087
+            },
+            {
+                "VehicleDescription": "2022 Cadillac XT4 SUV FWD",
+                "VehicleId": 16077
+            }
+        ]
+    },
+    {
+        "Count": 2,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Cadillac XT5 SUV AWD",
+                "VehicleId": 16086
+            },
+            {
+                "VehicleDescription": "2022 Cadillac XT5 SUV FWD",
+                "VehicleId": 16076
+            }
+        ]
+    },
+    {
+        "Count": 2,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Cadillac XT6 SUV AWD",
+                "VehicleId": 16088
+            },
+            {
+                "VehicleDescription": "2022 Cadillac XT6 SUV FWD",
+                "VehicleId": 16078
+            }
+        ]
+    },
+    {
+        "Count": 2,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Chevrolet Blazer SUV AWD",
+                "VehicleId": 16089
+            },
+            {
+                "VehicleDescription": "2022 Chevrolet Blazer SUV FWD",
+                "VehicleId": 16079
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Chevrolet Bolt EUV SUV FWD",
+                "VehicleId": 16009
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Chevrolet Bolt EV 5 HB FWD",
+                "VehicleId": 16008
+            }
+        ]
+    },
+    {
+        "Count": 2,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Chevrolet Camaro C RWD",
+                "VehicleId": 16064
+            },
+            {
+                "VehicleDescription": "2022 Chevrolet Camaro 2 DR RWD",
+                "VehicleId": 16060
+            }
+        ]
+    },
+    {
+        "Count": 2,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Chevrolet Camaro LT1 C RWD",
+                "VehicleId": 16065
+            },
+            {
+                "VehicleDescription": "2022 Chevrolet Camaro LT1 2 DR RWD",
+                "VehicleId": 16061
+            }
+        ]
+    },
+    {
+        "Count": 2,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Chevrolet Camaro SS C RWD",
+                "VehicleId": 16066
+            },
+            {
+                "VehicleDescription": "2022 Chevrolet Camaro SS 2 DR RWD",
+                "VehicleId": 16062
+            }
+        ]
+    },
+    {
+        "Count": 2,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Chevrolet Camaro ZL1 C RWD",
+                "VehicleId": 16067
+            },
+            {
+                "VehicleDescription": "2022 Chevrolet Camaro ZL1 2 DR RWD",
+                "VehicleId": 16063
+            }
+        ]
+    },
+    {
+        "Count": 4,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Chevrolet Colorado PU/CC 4WD",
+                "VehicleId": 16028
+            },
+            {
+                "VehicleDescription": "2022 Chevrolet Colorado PU/EC 4WD",
+                "VehicleId": 16026
+            },
+            {
+                "VehicleDescription": "2022 Chevrolet Colorado PU/CC 2WD",
+                "VehicleId": 16018
+            },
+            {
+                "VehicleDescription": "2022 Chevrolet Colorado PU/EC 2WD",
+                "VehicleId": 16016
+            }
+        ]
+    },
+    {
+        "Count": 2,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Chevrolet Equinox SUV AWD",
+                "VehicleId": 16024
+            },
+            {
+                "VehicleDescription": "2022 Chevrolet Equinox SUV FWD",
+                "VehicleId": 16014
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Chevrolet Express Cargo 2500 VAN RWD",
+                "VehicleId": 16321
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Chevrolet Express Cargo 3500 VAN RWD",
+                "VehicleId": 16322
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Chevrolet Express Passenger 2500 VAN RWD",
+                "VehicleId": 16323
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Chevrolet Express Passenger 3500 - 12 Passenger VAN RWD",
+                "VehicleId": 16324
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Chevrolet Express Passenger 3500 - 15 Passenger VAN RWD",
+                "VehicleId": 16325
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Chevrolet Malibu 4 DR FWD",
+                "VehicleId": 16059
+            }
+        ]
+    },
+    {
+        "Count": 6,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Chevrolet Silverado 1500 PU/CC 4WD",
+                "VehicleId": 16860
+            },
+            {
+                "VehicleDescription": "2022 Chevrolet Silverado 1500 PU/EC 4WD",
+                "VehicleId": 16856
+            },
+            {
+                "VehicleDescription": "2022 Chevrolet Silverado 1500 PU/RC 4WD",
+                "VehicleId": 16852
+            },
+            {
+                "VehicleDescription": "2022 Chevrolet Silverado 1500 PU/CC 2WD",
+                "VehicleId": 16848
+            },
+            {
+                "VehicleDescription": "2022 Chevrolet Silverado 1500 PU/EC 2WD",
+                "VehicleId": 16844
+            },
+            {
+                "VehicleDescription": "2022 Chevrolet Silverado 1500 PU/RC 2WD",
+                "VehicleId": 16840
+            }
+        ]
+    },
+    {
+        "Count": 6,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Chevrolet Silverado 1500 LTD PU/CC 4WD",
+                "VehicleId": 16859
+            },
+            {
+                "VehicleDescription": "2022 Chevrolet Silverado 1500 LTD PU/EC 4WD",
+                "VehicleId": 16855
+            },
+            {
+                "VehicleDescription": "2022 Chevrolet Silverado 1500 LTD PU/RC 4WD",
+                "VehicleId": 16851
+            },
+            {
+                "VehicleDescription": "2022 Chevrolet Silverado 1500 LTD PU/CC 2WD",
+                "VehicleId": 16847
+            },
+            {
+                "VehicleDescription": "2022 Chevrolet Silverado 1500 LTD PU/EC 2WD",
+                "VehicleId": 16843
+            },
+            {
+                "VehicleDescription": "2022 Chevrolet Silverado 1500 LTD PU/RC 2WD",
+                "VehicleId": 16839
+            }
+        ]
+    },
+    {
+        "Count": 6,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Chevrolet Silverado 2500 PU/CC 2WD",
+                "VehicleId": 16289
+            },
+            {
+                "VehicleDescription": "2022 Chevrolet Silverado 2500 PU/EC 2WD",
+                "VehicleId": 16287
+            },
+            {
+                "VehicleDescription": "2022 Chevrolet Silverado 2500 PU/RC 2WD",
+                "VehicleId": 16285
+            },
+            {
+                "VehicleDescription": "2022 Chevrolet Silverado 2500 PU/CC 4WD",
+                "VehicleId": 16251
+            },
+            {
+                "VehicleDescription": "2022 Chevrolet Silverado 2500 PU/EC 4WD",
+                "VehicleId": 16249
+            },
+            {
+                "VehicleDescription": "2022 Chevrolet Silverado 2500 PU/RC 4WD",
+                "VehicleId": 16247
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Chevrolet Spark 5 HB FWD",
+                "VehicleId": 16058
+            }
+        ]
+    },
+    {
+        "Count": 2,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Chevrolet Suburban SUV 2WD",
+                "VehicleId": 16282
+            },
+            {
+                "VehicleDescription": "2022 Chevrolet Suburban SUV 4WD",
+                "VehicleId": 16244
+            }
+        ]
+    },
+    {
+        "Count": 2,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Chevrolet Tahoe SUV 2WD",
+                "VehicleId": 16279
+            },
+            {
+                "VehicleDescription": "2022 Chevrolet Tahoe SUV 4WD",
+                "VehicleId": 16241
+            }
+        ]
+    },
+    {
+        "Count": 2,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Chevrolet Trailblazer SUV AWD",
+                "VehicleId": 16023
+            },
+            {
+                "VehicleDescription": "2022 Chevrolet Trailblazer SUV FWD",
+                "VehicleId": 16013
+            }
+        ]
+    },
+    {
+        "Count": 2,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Chevrolet Traverse SUV FWD",
+                "VehicleId": 16277
+            },
+            {
+                "VehicleDescription": "2022 Chevrolet Traverse SUV AWD",
+                "VehicleId": 16239
+            }
+        ]
+    },
+    {
+        "Count": 2,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Chevrolet Trax SUV AWD",
+                "VehicleId": 16021
+            },
+            {
+                "VehicleDescription": "2022 Chevrolet Trax SUV FWD",
+                "VehicleId": 16011
+            }
+        ]
+    },
+    {
+        "Count": 2,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Chrysler 300 4 DR AWD",
+                "VehicleId": 16456
+            },
+            {
+                "VehicleDescription": "2022 Chrysler 300 4 DR RWD",
+                "VehicleId": 16407
+            }
+        ]
+    },
+    {
+        "Count": 2,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Chrysler Pacifica MV AWD",
+                "VehicleId": 16409
+            },
+            {
+                "VehicleDescription": "2022 Chrysler Pacifica MV FWD",
+                "VehicleId": 16408
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Chrysler Pacifica Hybrid MV FWD",
+                "VehicleId": 16410
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Chrysler Voyager MV FWD",
+                "VehicleId": 16411
+            }
+        ]
+    },
+    {
+        "Count": 2,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Dodge Challenger 2 DR AWD",
+                "VehicleId": 16418
+            },
+            {
+                "VehicleDescription": "2022 Dodge Challenger 2 DR RWD",
+                "VehicleId": 16417
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Dodge Challenger (Driver) 2 DR RWD",
+                "VehicleId": 16415
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Dodge Challenger (Front Seat) 2 DR RWD",
+                "VehicleId": 16416
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Dodge Challenger SRT 2 DR RWD",
+                "VehicleId": 16420
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Dodge Challenger SRT (Front Seat) 2 DR RWD",
+                "VehicleId": 16419
+            }
+        ]
+    },
+    {
+        "Count": 2,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Dodge Charger 4 DR AWD",
+                "VehicleId": 16457
+            },
+            {
+                "VehicleDescription": "2022 Dodge Charger 4 DR RWD",
+                "VehicleId": 16412
+            }
+        ]
+    },
+    {
+        "Count": 2,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Dodge Charger Pursuit 4 DR AWD",
+                "VehicleId": 16458
+            },
+            {
+                "VehicleDescription": "2022 Dodge Charger Pursuit 4 DR RWD",
+                "VehicleId": 16414
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Dodge Charger SRT 4 DR RWD",
+                "VehicleId": 16413
+            }
+        ]
+    },
+    {
+        "Count": 2,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Dodge Durango SUV AWD",
+                "VehicleId": 16459
+            },
+            {
+                "VehicleDescription": "2022 Dodge Durango SUV RWD",
+                "VehicleId": 16421
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Dodge Durango Pursuit SUV AWD",
+                "VehicleId": 16423
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Dodge Durango SRT SUV AWD",
+                "VehicleId": 16422
+            }
+        ]
+    },
+    {
+        "Count": 2,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Fiat 500X SUV AWD",
+                "VehicleId": 16475
+            },
+            {
+                "VehicleDescription": "2022 Fiat 500X SUV FWD",
+                "VehicleId": 16451
+            }
+        ]
+    },
+    {
+        "Count": 2,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Ford Bronco 2DR SUV 4WD",
+                "VehicleId": 17037
+            },
+            {
+                "VehicleDescription": "2022 Ford Bronco 4DR SUV 4WD",
+                "VehicleId": 16331
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Ford Bronco Sport SUV 4WD",
+                "VehicleId": 16332
+            }
+        ]
+    },
+    {
+        "Count": 2,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Ford EcoSport SUV AWD",
+                "VehicleId": 16376
+            },
+            {
+                "VehicleDescription": "2022 Ford EcoSport SUV FWD",
+                "VehicleId": 16333
+            }
+        ]
+    },
+    {
+        "Count": 2,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Ford Edge SUV AWD",
+                "VehicleId": 16377
+            },
+            {
+                "VehicleDescription": "2022 Ford Edge SUV FWD",
+                "VehicleId": 16334
+            }
+        ]
+    },
+    {
+        "Count": 2,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Ford Escape SUV AWD",
+                "VehicleId": 16378
+            },
+            {
+                "VehicleDescription": "2022 Ford Escape SUV FWD",
+                "VehicleId": 16335
+            }
+        ]
+    },
+    {
+        "Count": 2,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Ford Escape HEV SUV AWD",
+                "VehicleId": 16379
+            },
+            {
+                "VehicleDescription": "2022 Ford Escape HEV SUV FWD",
+                "VehicleId": 16336
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Ford Escape PHEV SUV FWD",
+                "VehicleId": 16337
+            }
+        ]
+    },
+    {
+        "Count": 2,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Ford Expedition SUV 4WD",
+                "VehicleId": 16380
+            },
+            {
+                "VehicleDescription": "2022 Ford Expedition SUV 2WD",
+                "VehicleId": 16338
+            }
+        ]
+    },
+    {
+        "Count": 2,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Ford Expedition EL SUV 4WD",
+                "VehicleId": 16381
+            },
+            {
+                "VehicleDescription": "2022 Ford Expedition EL SUV 2WD",
+                "VehicleId": 16339
+            }
+        ]
+    },
+    {
+        "Count": 2,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Ford Explorer SUV 4WD",
+                "VehicleId": 16382
+            },
+            {
+                "VehicleDescription": "2022 Ford Explorer SUV RWD",
+                "VehicleId": 16340
+            }
+        ]
+    },
+    {
+        "Count": 2,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Ford Explorer HEV SUV 4WD",
+                "VehicleId": 16383
+            },
+            {
+                "VehicleDescription": "2022 Ford Explorer HEV SUV RWD",
+                "VehicleId": 16341
+            }
+        ]
+    },
+    {
+        "Count": 2,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Ford F-150  Regular Cab PU/RC 4WD",
+                "VehicleId": 16384
+            },
+            {
+                "VehicleDescription": "2022 Ford F-150  Regular Cab PU/RC 2WD",
+                "VehicleId": 16342
+            }
+        ]
+    },
+    {
+        "Count": 2,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Ford F-150  Super Cab PU/EC 4WD",
+                "VehicleId": 16385
+            },
+            {
+                "VehicleDescription": "2022 Ford F-150  Super Cab PU/EC 2WD",
+                "VehicleId": 16343
+            }
+        ]
+    },
+    {
+        "Count": 2,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Ford F-150 Super Cab Diesel PU/EC 4WD",
+                "VehicleId": 16386
+            },
+            {
+                "VehicleDescription": "2022 Ford F-150 Super Cab Diesel PU/EC 2WD",
+                "VehicleId": 16344
+            }
+        ]
+    },
+    {
+        "Count": 2,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Ford F-150 Super Crew PU/CC 4WD",
+                "VehicleId": 16387
+            },
+            {
+                "VehicleDescription": "2022 Ford F-150 Super Crew PU/CC 2WD",
+                "VehicleId": 16345
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Ford F-150 Super Crew Battery Electric PU/CC 4WD",
+                "VehicleId": 16348
+            }
+        ]
+    },
+    {
+        "Count": 2,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Ford F-150 Super Crew Diesel PU/CC 4WD",
+                "VehicleId": 16388
+            },
+            {
+                "VehicleDescription": "2022 Ford F-150 Super Crew Diesel PU/CC 2WD",
+                "VehicleId": 16346
+            }
+        ]
+    },
+    {
+        "Count": 2,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Ford F-150 Super Crew HEV PU/CC 4WD",
+                "VehicleId": 16389
+            },
+            {
+                "VehicleDescription": "2022 Ford F-150 Super Crew HEV PU/CC 2WD",
+                "VehicleId": 16347
+            }
+        ]
+    },
+    {
+        "Count": 2,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Ford F-250 Crew Cab PU/CC 4WD",
+                "VehicleId": 16392
+            },
+            {
+                "VehicleDescription": "2022 Ford F-250 Crew Cab PU/CC 2WD",
+                "VehicleId": 16351
+            }
+        ]
+    },
+    {
+        "Count": 2,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Ford F-250 Regular Cab PU/RC 4WD",
+                "VehicleId": 16390
+            },
+            {
+                "VehicleDescription": "2022 Ford F-250 Regular Cab PU/RC 2WD",
+                "VehicleId": 16349
+            }
+        ]
+    },
+    {
+        "Count": 2,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Ford F-250 Super Cab PU/EC 4WD",
+                "VehicleId": 16391
+            },
+            {
+                "VehicleDescription": "2022 Ford F-250 Super Cab PU/EC 2WD",
+                "VehicleId": 16350
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Ford F-250 Tremor Crew Cab PU/CC 4WD",
+                "VehicleId": 16352
+            }
+        ]
+    },
+    {
+        "Count": 2,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Ford F-350 Crew Cab PU/CC 4WD",
+                "VehicleId": 16395
+            },
+            {
+                "VehicleDescription": "2022 Ford F-350 Crew Cab PU/CC 2WD",
+                "VehicleId": 16355
+            }
+        ]
+    },
+    {
+        "Count": 2,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Ford F-350 Regular Cab PU/RC 4WD",
+                "VehicleId": 16393
+            },
+            {
+                "VehicleDescription": "2022 Ford F-350 Regular Cab PU/RC 2WD",
+                "VehicleId": 16353
+            }
+        ]
+    },
+    {
+        "Count": 2,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Ford F-350 Super Cab PU/EC 4WD",
+                "VehicleId": 16394
+            },
+            {
+                "VehicleDescription": "2022 Ford F-350 Super Cab PU/EC 2WD",
+                "VehicleId": 16354
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Ford GT 2 DR RWD",
+                "VehicleId": 16356
+            }
+        ]
+    },
+    {
+        "Count": 2,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Ford Maverick PU/CC 4WD",
+                "VehicleId": 16396
+            },
+            {
+                "VehicleDescription": "2022 Ford Maverick PU/CC 2WD",
+                "VehicleId": 16357
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Ford Maverick HEV PU/CC 2WD",
+                "VehicleId": 16358
+            }
+        ]
+    },
+    {
+        "Count": 2,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Ford Mustang C RWD",
+                "VehicleId": 16361
+            },
+            {
+                "VehicleDescription": "2022 Ford Mustang 2 DR RWD",
+                "VehicleId": 16359
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Ford Mustang GT 500 2 DR RWD",
+                "VehicleId": 16360
+            }
+        ]
+    },
+    {
+        "Count": 2,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Ford Mustang Mach-E SUV AWD",
+                "VehicleId": 16398
+            },
+            {
+                "VehicleDescription": "2022 Ford Mustang Mach-E SUV RWD",
+                "VehicleId": 16362
+            }
+        ]
+    },
+    {
+        "Count": 2,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Ford Ranger Super Cab PU/EC 4WD",
+                "VehicleId": 16399
+            },
+            {
+                "VehicleDescription": "2022 Ford Ranger Super Cab PU/EC 2WD",
+                "VehicleId": 16363
+            }
+        ]
+    },
+    {
+        "Count": 2,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Ford Ranger Super Crew PU/CC 4WD",
+                "VehicleId": 16400
+            },
+            {
+                "VehicleDescription": "2022 Ford Ranger Super Crew PU/CC 2WD",
+                "VehicleId": 16364
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Ford Transit Connect Van VAN FWD",
+                "VehicleId": 16365
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Ford Transit Connect Wagon Wagon FWD",
+                "VehicleId": 16366
+            }
+        ]
+    },
+    {
+        "Count": 2,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Ford Transit High Roof (8,10,12) Pass WAGON RWD",
+                "VehicleId": 16520
+            },
+            {
+                "VehicleDescription": "2022 Ford Transit High Roof (8,10,12) Pass WAGON AWD",
+                "VehicleId": 16491
+            }
+        ]
+    },
+    {
+        "Count": 2,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Ford Transit High Roof 15 Pass WAGON RWD",
+                "VehicleId": 16493
+            },
+            {
+                "VehicleDescription": "2022 Ford Transit High Roof 15 Pass WAGON AWD",
+                "VehicleId": 16492
+            }
+        ]
+    },
+    {
+        "Count": 2,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Ford Transit Low Roof (8,10,12) Pass WAGON RWD",
+                "VehicleId": 16495
+            },
+            {
+                "VehicleDescription": "2022 Ford Transit Low Roof (8,10,12) Pass WAGON AWD",
+                "VehicleId": 16494
+            }
+        ]
+    },
+    {
+        "Count": 2,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Ford Transit Low Roof 15 Pass WAGON RWD",
+                "VehicleId": 16497
+            },
+            {
+                "VehicleDescription": "2022 Ford Transit Low Roof 15 Pass WAGON AWD",
+                "VehicleId": 16496
+            }
+        ]
+    },
+    {
+        "Count": 2,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Ford Transit Medium Roof (8,10,12) Pass WAGON RWD",
+                "VehicleId": 16490
+            },
+            {
+                "VehicleDescription": "2022 Ford Transit Medium Roof (8,10,12) Pass WAGON AWD",
+                "VehicleId": 16489
+            }
+        ]
+    },
+    {
+        "Count": 2,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Ford Transit Medium Roof 15 Pass WAGON RWD",
+                "VehicleId": 16499
+            },
+            {
+                "VehicleDescription": "2022 Ford Transit Medium Roof 15 Pass WAGON AWD",
+                "VehicleId": 16498
+            }
+        ]
+    },
+    {
+        "Count": 2,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Ford Transit Van VAN AWD",
+                "VehicleId": 16401
+            },
+            {
+                "VehicleDescription": "2022 Ford Transit Van VAN RWD",
+                "VehicleId": 16367
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Ford Transit Van Battery Electric VAN RWD",
+                "VehicleId": 16368
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Freightliner Sprinter 1500 Cargo Van VAN RWD",
+                "VehicleId": 16946
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Freightliner Sprinter 1500 Passenger Van VAN RWD",
+                "VehicleId": 16943
+            }
+        ]
+    },
+    {
+        "Count": 2,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Freightliner Sprinter 2500 12 Passenger Van VAN AWD",
+                "VehicleId": 16960
+            },
+            {
+                "VehicleDescription": "2022 Freightliner Sprinter 2500 12 Passenger Van VAN RWD",
+                "VehicleId": 16944
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Freightliner Sprinter 2500 15 Passenger Van VAN RWD",
+                "VehicleId": 16945
+            }
+        ]
+    },
+    {
+        "Count": 2,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Freightliner Sprinter 2500 Cargo Van (LWB) VAN AWD",
+                "VehicleId": 16961
+            },
+            {
+                "VehicleDescription": "2022 Freightliner Sprinter 2500 Cargo Van (LWB) VAN RWD",
+                "VehicleId": 16947
+            }
+        ]
+    },
+    {
+        "Count": 2,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Freightliner Sprinter 2500 Cargo Van (SWB) VAN AWD",
+                "VehicleId": 16962
+            },
+            {
+                "VehicleDescription": "2022 Freightliner Sprinter 2500 Cargo Van (SWB) VAN RWD",
+                "VehicleId": 16948
+            }
+        ]
+    },
+    {
+        "Count": 2,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Freightliner Sprinter 2500 Crew Van (LWB) VAN AWD",
+                "VehicleId": 16964
+            },
+            {
+                "VehicleDescription": "2022 Freightliner Sprinter 2500 Crew Van (LWB) VAN RWD",
+                "VehicleId": 16951
+            }
+        ]
+    },
+    {
+        "Count": 2,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Freightliner Sprinter 2500 Crew Van (SWB) VAN AWD",
+                "VehicleId": 16963
+            },
+            {
+                "VehicleDescription": "2022 Freightliner Sprinter 2500 Crew Van (SWB) VAN RWD",
+                "VehicleId": 16950
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Freightliner Sprinter 3500 Cargo Van VAN RWD",
+                "VehicleId": 16949
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Freightliner Sprinter 3500 Crew Van VAN RWD",
+                "VehicleId": 16952
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Freightliner Sprinter 4500 Cargo Van VAN RWD",
+                "VehicleId": 16954
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Freightliner Sprinter 4500 Crew Van VAN RWD",
+                "VehicleId": 16953
+            }
+        ]
+    },
+    {
+        "Count": 2,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Genesis G70 4 DR AWD",
+                "VehicleId": 15998
+            },
+            {
+                "VehicleDescription": "2022 Genesis G70 4 DR RWD",
+                "VehicleId": 15984
+            }
+        ]
+    },
+    {
+        "Count": 2,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Genesis G80 4 DR AWD",
+                "VehicleId": 16002
+            },
+            {
+                "VehicleDescription": "2022 Genesis G80 4 DR RWD",
+                "VehicleId": 15988
+            }
+        ]
+    },
+    {
+        "Count": 2,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Genesis G90 4 DR AWD",
+                "VehicleId": 16001
+            },
+            {
+                "VehicleDescription": "2022 Genesis G90 4 DR RWD",
+                "VehicleId": 15987
+            }
+        ]
+    },
+    {
+        "Count": 2,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Genesis GV70 SUV AWD",
+                "VehicleId": 15999
+            },
+            {
+                "VehicleDescription": "2022 Genesis GV70 SUV RWD",
+                "VehicleId": 15985
+            }
+        ]
+    },
+    {
+        "Count": 2,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Genesis GV80 SUV AWD",
+                "VehicleId": 16000
+            },
+            {
+                "VehicleDescription": "2022 Genesis GV80 SUV RWD",
+                "VehicleId": 15986
+            }
+        ]
+    },
+    {
+        "Count": 2,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 GMC Acadia SUV AWD",
+                "VehicleId": 16085
+            },
+            {
+                "VehicleDescription": "2022 GMC Acadia SUV FWD",
+                "VehicleId": 16075
+            }
+        ]
+    },
+    {
+        "Count": 4,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 GMC Canyon PU/CC 4WD",
+                "VehicleId": 16029
+            },
+            {
+                "VehicleDescription": "2022 GMC Canyon PU/EC 4WD",
+                "VehicleId": 16027
+            },
+            {
+                "VehicleDescription": "2022 GMC Canyon PU/CC 2WD",
+                "VehicleId": 16019
+            },
+            {
+                "VehicleDescription": "2022 GMC Canyon PU/EC 2WD",
+                "VehicleId": 16017
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 GMC Savana Cargo 2500 VAN RWD",
+                "VehicleId": 16326
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 GMC Savana Cargo 3500 VAN RWD",
+                "VehicleId": 16327
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 GMC Savana Passenger 2500 VAN RWD",
+                "VehicleId": 16328
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 GMC Savana Passenger 3500 - 12 Passenger VAN RWD",
+                "VehicleId": 16329
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 GMC Savana Passenger 3500 - 15 Passenger VAN RWD",
+                "VehicleId": 16330
+            }
+        ]
+    },
+    {
+        "Count": 6,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 GMC Sierra 1500 PU/CC 4WD",
+                "VehicleId": 16862
+            },
+            {
+                "VehicleDescription": "2022 GMC Sierra 1500 PU/EC 4WD",
+                "VehicleId": 16858
+            },
+            {
+                "VehicleDescription": "2022 GMC Sierra 1500 PU/RC 4WD",
+                "VehicleId": 16854
+            },
+            {
+                "VehicleDescription": "2022 GMC Sierra 1500 PU/CC 2WD",
+                "VehicleId": 16850
+            },
+            {
+                "VehicleDescription": "2022 GMC Sierra 1500 PU/EC 2WD",
+                "VehicleId": 16846
+            },
+            {
+                "VehicleDescription": "2022 GMC Sierra 1500 PU/RC 2WD",
+                "VehicleId": 16842
+            }
+        ]
+    },
+    {
+        "Count": 6,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 GMC Sierra 1500 Limited PU/CC 4WD",
+                "VehicleId": 16861
+            },
+            {
+                "VehicleDescription": "2022 GMC Sierra 1500 Limited PU/EC 4WD",
+                "VehicleId": 16857
+            },
+            {
+                "VehicleDescription": "2022 GMC Sierra 1500 Limited PU/RC 4WD",
+                "VehicleId": 16853
+            },
+            {
+                "VehicleDescription": "2022 GMC Sierra 1500 Limited PU/CC 2WD",
+                "VehicleId": 16849
+            },
+            {
+                "VehicleDescription": "2022 GMC Sierra 1500 Limited PU/EC 2WD",
+                "VehicleId": 16845
+            },
+            {
+                "VehicleDescription": "2022 GMC Sierra 1500 Limited PU/RC 2WD",
+                "VehicleId": 16841
+            }
+        ]
+    },
+    {
+        "Count": 6,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 GMC Sierra 2500 PU/CC 2WD",
+                "VehicleId": 16290
+            },
+            {
+                "VehicleDescription": "2022 GMC Sierra 2500 PU/EC 2WD",
+                "VehicleId": 16288
+            },
+            {
+                "VehicleDescription": "2022 GMC Sierra 2500 PU/RC 2WD",
+                "VehicleId": 16286
+            },
+            {
+                "VehicleDescription": "2022 GMC Sierra 2500 PU/CC 4WD",
+                "VehicleId": 16252
+            },
+            {
+                "VehicleDescription": "2022 GMC Sierra 2500 PU/EC 4WD",
+                "VehicleId": 16250
+            },
+            {
+                "VehicleDescription": "2022 GMC Sierra 2500 PU/RC 4WD",
+                "VehicleId": 16248
+            }
+        ]
+    },
+    {
+        "Count": 2,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 GMC Terrain SUV AWD",
+                "VehicleId": 16025
+            },
+            {
+                "VehicleDescription": "2022 GMC Terrain SUV FWD",
+                "VehicleId": 16015
+            }
+        ]
+    },
+    {
+        "Count": 2,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 GMC Yukon SUV 2WD",
+                "VehicleId": 16280
+            },
+            {
+                "VehicleDescription": "2022 GMC Yukon SUV 4WD",
+                "VehicleId": 16242
+            }
+        ]
+    },
+    {
+        "Count": 2,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 GMC Yukon XL SUV 2WD",
+                "VehicleId": 16283
+            },
+            {
+                "VehicleDescription": "2022 GMC Yukon XL SUV 4WD",
+                "VehicleId": 16245
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Honda ACCORD 4 DR FWD",
+                "VehicleId": 16835
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Honda ACCORD HYBRID 4 DR FWD",
+                "VehicleId": 16834
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Honda CIVIC 4 DR FWD",
+                "VehicleId": 16478
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Honda CIVIC HATCHBACK 5 HB FWD",
+                "VehicleId": 16836
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Honda CIVIC SEDAN SI 4 DR FWD",
+                "VehicleId": 17012
+            }
+        ]
+    },
+    {
+        "Count": 2,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Honda CR-V SUV AWD",
+                "VehicleId": 16485
+            },
+            {
+                "VehicleDescription": "2022 Honda CR-V SUV FWD",
+                "VehicleId": 16479
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Honda CR-V HYBRID SUV AWD",
+                "VehicleId": 16480
+            }
+        ]
+    },
+    {
+        "Count": 2,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Honda HR-V SUV AWD",
+                "VehicleId": 16038
+            },
+            {
+                "VehicleDescription": "2022 Honda HR-V SUV FWD",
+                "VehicleId": 16037
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Honda INSIGHT 4 DR FWD",
+                "VehicleId": 16031
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Honda ODYSSEY VAN FWD",
+                "VehicleId": 15923
+            }
+        ]
+    },
+    {
+        "Count": 2,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Honda PASSPORT SUV AWD",
+                "VehicleId": 17015
+            },
+            {
+                "VehicleDescription": "2022 Honda PASSPORT SUV FWD",
+                "VehicleId": 17014
+            }
+        ]
+    },
+    {
+        "Count": 2,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Honda PILOT SUV AWD",
+                "VehicleId": 16486
+            },
+            {
+                "VehicleDescription": "2022 Honda PILOT SUV FWD",
+                "VehicleId": 16481
+            }
+        ]
+    },
+    {
+        "Count": 2,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Honda RIDGELINE PU/CC AWD",
+                "VehicleId": 16487
+            },
+            {
+                "VehicleDescription": "2022 Honda RIDGELINE PU/CC FWD",
+                "VehicleId": 16482
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Hyundai Accent 4 DR FWD",
+                "VehicleId": 16593
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Hyundai Elantra 4 DR FWD",
+                "VehicleId": 15976
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Hyundai Elantra Hybrid 4 DR FWD",
+                "VehicleId": 15977
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Hyundai Elantra N 4 DR FWD",
+                "VehicleId": 16592
+            }
+        ]
+    },
+    {
+        "Count": 2,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Hyundai Ioniq 5 SUV AWD",
+                "VehicleId": 16597
+            },
+            {
+                "VehicleDescription": "2022 Hyundai Ioniq 5 SUV RWD",
+                "VehicleId": 16595
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Hyundai Ioniq Hybrid 4 DR FWD",
+                "VehicleId": 15979
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Hyundai Ioniq Plug-in Hybrid 4 DR FWD",
+                "VehicleId": 15978
+            }
+        ]
+    },
+    {
+        "Count": 2,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Hyundai Kona SUV AWD",
+                "VehicleId": 15992
+            },
+            {
+                "VehicleDescription": "2022 Hyundai Kona SUV FWD",
+                "VehicleId": 15967
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Hyundai Kona Electric SUV FWD",
+                "VehicleId": 15968
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Hyundai Kona N SUV FWD",
+                "VehicleId": 15969
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Hyundai Nexo SUV FWD",
+                "VehicleId": 16596
+            }
+        ]
+    },
+    {
+        "Count": 2,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Hyundai Palisade SUV AWD",
+                "VehicleId": 15996
+            },
+            {
+                "VehicleDescription": "2022 Hyundai Palisade SUV FWD",
+                "VehicleId": 15974
+            }
+        ]
+    },
+    {
+        "Count": 2,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Hyundai Santa Cruz PU/CC AWD",
+                "VehicleId": 15997
+            },
+            {
+                "VehicleDescription": "2022 Hyundai Santa Cruz PU/CC FWD",
+                "VehicleId": 15975
+            }
+        ]
+    },
+    {
+        "Count": 2,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Hyundai Santa Fe SUV AWD",
+                "VehicleId": 15993
+            },
+            {
+                "VehicleDescription": "2022 Hyundai Santa Fe SUV FWD",
+                "VehicleId": 15971
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Hyundai Santa Fe Hybrid SUV AWD",
+                "VehicleId": 15994
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Hyundai Santa Fe Plug-in Hybrid SUV AWD",
+                "VehicleId": 15995
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Hyundai Sonata 4 DR FWD",
+                "VehicleId": 15981
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Hyundai Sonata Hybrid 4 DR FWD",
+                "VehicleId": 15982
+            }
+        ]
+    },
+    {
+        "Count": 4,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Hyundai Tucson SUV FWD Later Release",
+                "VehicleId": 17102
+            },
+            {
+                "VehicleDescription": "2022 Hyundai Tucson SUV AWD Later Release",
+                "VehicleId": 17101
+            },
+            {
+                "VehicleDescription": "2022 Hyundai Tucson SUV AWD Early Release",
+                "VehicleId": 15989
+            },
+            {
+                "VehicleDescription": "2022 Hyundai Tucson SUV FWD Early Release",
+                "VehicleId": 15964
+            }
+        ]
+    },
+    {
+        "Count": 4,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Hyundai Tucson Hybrid SUV FWD Later Release",
+                "VehicleId": 17104
+            },
+            {
+                "VehicleDescription": "2022 Hyundai Tucson Hybrid SUV AWD Later Release",
+                "VehicleId": 17103
+            },
+            {
+                "VehicleDescription": "2022 Hyundai Tucson Hybrid SUV AWD Early Release",
+                "VehicleId": 15990
+            },
+            {
+                "VehicleDescription": "2022 Hyundai Tucson Hybrid SUV FWD Early Release",
+                "VehicleId": 15965
+            }
+        ]
+    },
+    {
+        "Count": 2,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Hyundai Tucson Plug-in Hybrid SUV AWD",
+                "VehicleId": 15991
+            },
+            {
+                "VehicleDescription": "2022 Hyundai Tucson Plug-in Hybrid SUV FWD",
+                "VehicleId": 15966
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Hyundai Veloster N 3 HB FWD",
+                "VehicleId": 15970
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Hyundai Venue 5 HB FWD",
+                "VehicleId": 16594
+            }
+        ]
+    },
+    {
+        "Count": 2,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Infiniti Q50 4 AWD",
+                "VehicleId": 16831
+            },
+            {
+                "VehicleDescription": "2022 Infiniti Q50 4 RWD",
+                "VehicleId": 16818
+            }
+        ]
+    },
+    {
+        "Count": 2,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Infiniti Q60 Coupe 2 AWD",
+                "VehicleId": 16832
+            },
+            {
+                "VehicleDescription": "2022 Infiniti Q60 Coupe 2 RWD",
+                "VehicleId": 16819
+            }
+        ]
+    },
+    {
+        "Count": 2,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Infiniti QX50 SUV AWD",
+                "VehicleId": 17011
+            },
+            {
+                "VehicleDescription": "2022 Infiniti QX50 SUV FWD",
+                "VehicleId": 17010
+            }
+        ]
+    },
+    {
+        "Count": 2,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Infiniti QX55 SUV AWD",
+                "VehicleId": 16048
+            },
+            {
+                "VehicleDescription": "2022 Infiniti QX55 SUV FWD",
+                "VehicleId": 16044
+            }
+        ]
+    },
+    {
+        "Count": 2,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Infiniti QX60 SUV AWD",
+                "VehicleId": 16826
+            },
+            {
+                "VehicleDescription": "2022 Infiniti QX60 SUV FWD",
+                "VehicleId": 16811
+            }
+        ]
+    },
+    {
+        "Count": 2,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Infiniti QX80 SUV AWD",
+                "VehicleId": 16833
+            },
+            {
+                "VehicleDescription": "2022 Infiniti QX80 SUV RWD",
+                "VehicleId": 16820
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Jaguar E-PACE SUV AWD",
+                "VehicleId": 16966
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Jaguar F- PACE SUV AWD",
+                "VehicleId": 16967
+            }
+        ]
+    },
+    {
+        "Count": 2,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Jaguar F-TYPE Convertible 2 DR AWD",
+                "VehicleId": 16981
+            },
+            {
+                "VehicleDescription": "2022 Jaguar F-TYPE Convertible 2 DR RWD",
+                "VehicleId": 16969
+            }
+        ]
+    },
+    {
+        "Count": 2,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Jaguar F-TYPE Coupe 2 DR AWD",
+                "VehicleId": 16982
+            },
+            {
+                "VehicleDescription": "2022 Jaguar F-TYPE Coupe 2 DR RWD",
+                "VehicleId": 16970
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Jaguar I-PACE SUV AWD",
+                "VehicleId": 16965
+            }
+        ]
+    },
+    {
+        "Count": 2,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Jaguar XF 4 DR AWD",
+                "VehicleId": 16980
+            },
+            {
+                "VehicleDescription": "2022 Jaguar XF 4 DR RWD",
+                "VehicleId": 16968
+            }
+        ]
+    },
+    {
+        "Count": 2,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Jeep Cherokee SUV AWD",
+                "VehicleId": 16460
+            },
+            {
+                "VehicleDescription": "2022 Jeep Cherokee SUV FWD",
+                "VehicleId": 16424
+            }
+        ]
+    },
+    {
+        "Count": 2,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Jeep Compass SUV AWD",
+                "VehicleId": 16461
+            },
+            {
+                "VehicleDescription": "2022 Jeep Compass SUV FWD",
+                "VehicleId": 16425
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Jeep Gladiator PU/CC 4WD",
+                "VehicleId": 16426
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Jeep Gladiator DIESEL PU/CC 4WD",
+                "VehicleId": 16427
+            }
+        ]
+    },
+    {
+        "Count": 2,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Jeep Grand Cherokee SUV 4WD",
+                "VehicleId": 16464
+            },
+            {
+                "VehicleDescription": "2022 Jeep Grand Cherokee SUV 2WD",
+                "VehicleId": 16430
+            }
+        ]
+    },
+    {
+        "Count": 2,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Jeep Grand Cherokee L SUV 4WD",
+                "VehicleId": 16463
+            },
+            {
+                "VehicleDescription": "2022 Jeep Grand Cherokee L SUV 2WD",
+                "VehicleId": 16429
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Jeep Grand Cherokee PHEV SUV 4WD",
+                "VehicleId": 17030
+            }
+        ]
+    },
+    {
+        "Count": 2,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Jeep Grand Cherokee WK SUV AWD",
+                "VehicleId": 16462
+            },
+            {
+                "VehicleDescription": "2022 Jeep Grand Cherokee WK SUV RWD",
+                "VehicleId": 16428
+            }
+        ]
+    },
+    {
+        "Count": 2,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Jeep Grand Wagoneer SUV 4WD",
+                "VehicleId": 16466
+            },
+            {
+                "VehicleDescription": "2022 Jeep Grand Wagoneer SUV 2WD",
+                "VehicleId": 16432
+            }
+        ]
+    },
+    {
+        "Count": 2,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Jeep Renegade SUV AWD",
+                "VehicleId": 16467
+            },
+            {
+                "VehicleDescription": "2022 Jeep Renegade SUV FWD",
+                "VehicleId": 16433
+            }
+        ]
+    },
+    {
+        "Count": 2,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Jeep Wagoneer SUV 4WD",
+                "VehicleId": 16465
+            },
+            {
+                "VehicleDescription": "2022 Jeep Wagoneer SUV 2WD",
+                "VehicleId": 16431
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Jeep Wrangler SUV 4WD",
+                "VehicleId": 16434
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Jeep Wrangler Unlimited SUV 4WD",
+                "VehicleId": 16435
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Jeep Wrangler Unlimited 392 SUV 4WD",
+                "VehicleId": 16439
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Jeep Wrangler Unlimited DIESEL SUV 4WD",
+                "VehicleId": 16437
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Jeep Wrangler Unlimited PHEV SUV 4WD",
+                "VehicleId": 16438
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Jeep Wrangler Unlimited RHD SUV 4WD",
+                "VehicleId": 16436
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Kia Carnival MV FWD",
+                "VehicleId": 15949
+            }
+        ]
+    },
+    {
+        "Count": 2,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Kia EV6 SUV AWD",
+                "VehicleId": 16606
+            },
+            {
+                "VehicleDescription": "2022 Kia EV6 SUV RWD",
+                "VehicleId": 16603
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Kia Forte 4 DR FWD",
+                "VehicleId": 15950
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Kia K5 4 DR FWD",
+                "VehicleId": 15951
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Kia Niro Electric SUV FWD",
+                "VehicleId": 16602
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Kia Niro Hybrid SUV FWD",
+                "VehicleId": 16600
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Kia Niro PHEV SUV FWD",
+                "VehicleId": 16601
+            }
+        ]
+    },
+    {
+        "Count": 2,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Kia Rio 5 HB FWD",
+                "VehicleId": 16599
+            },
+            {
+                "VehicleDescription": "2022 Kia Rio 4 DR FWD",
+                "VehicleId": 16598
+            }
+        ]
+    },
+    {
+        "Count": 2,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Kia Seltos SUV AWD",
+                "VehicleId": 15956
+            },
+            {
+                "VehicleDescription": "2022 Kia Seltos SUV FWD",
+                "VehicleId": 15953
+            }
+        ]
+    },
+    {
+        "Count": 2,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Kia Sorento SUV AWD",
+                "VehicleId": 16608
+            },
+            {
+                "VehicleDescription": "2022 Kia Sorento SUV FWD",
+                "VehicleId": 16605
+            }
+        ]
+    },
+    {
+        "Count": 2,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Kia Sorento Hybrid SUV AWD",
+                "VehicleId": 17031
+            },
+            {
+                "VehicleDescription": "2022 Kia Sorento Hybrid SUV FWD",
+                "VehicleId": 15948
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Kia Sorento Plug-in Hybrid SUV AWD",
+                "VehicleId": 15947
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Kia Soul SUV FWD",
+                "VehicleId": 15952
+            }
+        ]
+    },
+    {
+        "Count": 2,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Kia Sportage SUV AWD",
+                "VehicleId": 16607
+            },
+            {
+                "VehicleDescription": "2022 Kia Sportage SUV FWD",
+                "VehicleId": 16604
+            }
+        ]
+    },
+    {
+        "Count": 2,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Kia Stinger 4 DR AWD",
+                "VehicleId": 15955
+            },
+            {
+                "VehicleDescription": "2022 Kia Stinger 4 DR RWD",
+                "VehicleId": 15946
+            }
+        ]
+    },
+    {
+        "Count": 2,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Kia Telluride SUV AWD",
+                "VehicleId": 15957
+            },
+            {
+                "VehicleDescription": "2022 Kia Telluride SUV FWD",
+                "VehicleId": 15954
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Land Rover Defender 110 SUV 4WD",
+                "VehicleId": 16979
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Land Rover Defender 90 SUV 4WD",
+                "VehicleId": 16978
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Land Rover Discovery SUV 4WD",
+                "VehicleId": 16976
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Land Rover Discovery Sport SUV 4WD",
+                "VehicleId": 16975
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Land Rover Range Rover Evoque \n(5 Door) SUV 4WD",
+                "VehicleId": 16974
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Land Rover Range Rover LWB SUV 4WD",
+                "VehicleId": 16972
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Land Rover Range Rover Sport SUV 4WD",
+                "VehicleId": 16973
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Land Rover Range Rover SWB SUV 4WD",
+                "VehicleId": 16971
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Land Rover Range Rover Velar SUV 4WD",
+                "VehicleId": 16977
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Lexus ES 250 4 DR AWD",
+                "VehicleId": 16614
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Lexus ES 300h 4 DR FWD",
+                "VehicleId": 16616
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Lexus ES 350 4 DR FWD",
+                "VehicleId": 16615
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Lexus GX 460 SUV AWD",
+                "VehicleId": 16627
+            }
+        ]
+    },
+    {
+        "Count": 2,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Lexus IS 300 4 DR AWD",
+                "VehicleId": 16654
+            },
+            {
+                "VehicleDescription": "2022 Lexus IS 300 4 DR RWD",
+                "VehicleId": 16617
+            }
+        ]
+    },
+    {
+        "Count": 2,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Lexus IS 350 4 DR AWD",
+                "VehicleId": 16655
+            },
+            {
+                "VehicleDescription": "2022 Lexus IS 350 4 DR RWD",
+                "VehicleId": 16618
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Lexus IS 500 4 DR RWD",
+                "VehicleId": 16619
+            }
+        ]
+    },
+    {
+        "Count": 2,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Lexus LC 500 C RWD",
+                "VehicleId": 16613
+            },
+            {
+                "VehicleDescription": "2022 Lexus LC 500 2 DR RWD",
+                "VehicleId": 16611
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Lexus LC 500h 2 DR RWD",
+                "VehicleId": 16612
+            }
+        ]
+    },
+    {
+        "Count": 2,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Lexus LS 500 4 DR AWD",
+                "VehicleId": 16652
+            },
+            {
+                "VehicleDescription": "2022 Lexus LS 500 4 DR RWD",
+                "VehicleId": 16609
+            }
+        ]
+    },
+    {
+        "Count": 2,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Lexus LS 500h 4 DR AWD",
+                "VehicleId": 16653
+            },
+            {
+                "VehicleDescription": "2022 Lexus LS 500h 4 DR RWD",
+                "VehicleId": 16610
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Lexus LX 600 SUV AWD",
+                "VehicleId": 17038
+            }
+        ]
+    },
+    {
+        "Count": 2,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Lexus NX 250 SUV AWD",
+                "VehicleId": 17029
+            },
+            {
+                "VehicleDescription": "2022 Lexus NX 250 SUV FWD",
+                "VehicleId": 17028
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Lexus NX 350 SUV AWD",
+                "VehicleId": 17025
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Lexus NX 350h SUV AWD",
+                "VehicleId": 17026
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Lexus NX 450h+ SUV AWD",
+                "VehicleId": 17027
+            }
+        ]
+    },
+    {
+        "Count": 2,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Lexus RC 300 2 DR AWD",
+                "VehicleId": 16657
+            },
+            {
+                "VehicleDescription": "2022 Lexus RC 300 2 DR RWD",
+                "VehicleId": 16621
+            }
+        ]
+    },
+    {
+        "Count": 2,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Lexus RC 350 2 DR AWD",
+                "VehicleId": 16658
+            },
+            {
+                "VehicleDescription": "2022 Lexus RC 350 2 DR RWD",
+                "VehicleId": 16622
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Lexus RC F 2 DR RWD",
+                "VehicleId": 16620
+            }
+        ]
+    },
+    {
+        "Count": 2,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Lexus RX 350 SUV AWD",
+                "VehicleId": 16659
+            },
+            {
+                "VehicleDescription": "2022 Lexus RX 350 SUV FWD",
+                "VehicleId": 16623
+            }
+        ]
+    },
+    {
+        "Count": 2,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Lexus RX 350L SUV AWD",
+                "VehicleId": 16660
+            },
+            {
+                "VehicleDescription": "2022 Lexus RX 350L SUV FWD",
+                "VehicleId": 16624
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Lexus RX 450h SUV AWD",
+                "VehicleId": 16625
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Lexus RX 450hL SUV AWD",
+                "VehicleId": 16626
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Lexus UX 200 5 HB FWD",
+                "VehicleId": 16628
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Lexus UX 250h 5 HB AWD",
+                "VehicleId": 16629
+            }
+        ]
+    },
+    {
+        "Count": 2,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Lincoln Aviator SUV 4WD",
+                "VehicleId": 16402
+            },
+            {
+                "VehicleDescription": "2022 Lincoln Aviator SUV RWD",
+                "VehicleId": 16369
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Lincoln Aviator PHEV SUV 4WD",
+                "VehicleId": 16370
+            }
+        ]
+    },
+    {
+        "Count": 2,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Lincoln Corsair SUV AWD",
+                "VehicleId": 16403
+            },
+            {
+                "VehicleDescription": "2022 Lincoln Corsair SUV FWD",
+                "VehicleId": 16371
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Lincoln Corsair PHEV SUV AWD",
+                "VehicleId": 16372
+            }
+        ]
+    },
+    {
+        "Count": 2,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Lincoln Nautilus SUV AWD",
+                "VehicleId": 16404
+            },
+            {
+                "VehicleDescription": "2022 Lincoln Nautilus SUV FWD",
+                "VehicleId": 16373
+            }
+        ]
+    },
+    {
+        "Count": 2,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Lincoln Navigator SUV 4WD",
+                "VehicleId": 16405
+            },
+            {
+                "VehicleDescription": "2022 Lincoln Navigator SUV 2WD",
+                "VehicleId": 16374
+            }
+        ]
+    },
+    {
+        "Count": 2,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Lincoln Navigator EL SUV 4WD",
+                "VehicleId": 16406
+            },
+            {
+                "VehicleDescription": "2022 Lincoln Navigator EL SUV 2WD",
+                "VehicleId": 16375
+            }
+        ]
+    },
+    {
+        "Count": 2,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Mazda CX-30 SUV AWD",
+                "VehicleId": 16099
+            },
+            {
+                "VehicleDescription": "2022 Mazda CX-30 SUV FWD",
+                "VehicleId": 16093
+            }
+        ]
+    },
+    {
+        "Count": 2,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Mazda CX-5 SUV AWD",
+                "VehicleId": 16100
+            },
+            {
+                "VehicleDescription": "2022 Mazda CX-5 SUV FWD",
+                "VehicleId": 16094
+            }
+        ]
+    },
+    {
+        "Count": 2,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Mazda CX-9 SUV AWD",
+                "VehicleId": 16101
+            },
+            {
+                "VehicleDescription": "2022 Mazda CX-9 SUV FWD",
+                "VehicleId": 16095
+            }
+        ]
+    },
+    {
+        "Count": 4,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Mazda Mazda3 5 HB AWD",
+                "VehicleId": 16098
+            },
+            {
+                "VehicleDescription": "2022 Mazda Mazda3 4 DR AWD",
+                "VehicleId": 16097
+            },
+            {
+                "VehicleDescription": "2022 Mazda Mazda3 5 HB FWD",
+                "VehicleId": 16092
+            },
+            {
+                "VehicleDescription": "2022 Mazda Mazda3 4 DR FWD",
+                "VehicleId": 16091
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Mazda MX-30 5 HB FWD",
+                "VehicleId": 17024
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Mazda MX-5 C RWD",
+                "VehicleId": 16096
+            }
+        ]
+    },
+    {
+        "Count": 2,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Mercedes-Benz A-Class 4 DR 4WD",
+                "VehicleId": 16795
+            },
+            {
+                "VehicleDescription": "2022 Mercedes-Benz A-Class 4 DR FWD",
+                "VehicleId": 16773
+            }
+        ]
+    },
+    {
+        "Count": 2,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Mercedes-Benz C-Class 4 DR 4WD",
+                "VehicleId": 16784
+            },
+            {
+                "VehicleDescription": "2022 Mercedes-Benz C-Class 4 DR RWD",
+                "VehicleId": 16761
+            }
+        ]
+    },
+    {
+        "Count": 2,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Mercedes-Benz C-Class Cabriolet C 4WD",
+                "VehicleId": 16786
+            },
+            {
+                "VehicleDescription": "2022 Mercedes-Benz C-Class Cabriolet C RWD",
+                "VehicleId": 16763
+            }
+        ]
+    },
+    {
+        "Count": 2,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Mercedes-Benz C-Class Coupe 2 DR 4WD",
+                "VehicleId": 16785
+            },
+            {
+                "VehicleDescription": "2022 Mercedes-Benz C-Class Coupe 2 DR RWD",
+                "VehicleId": 16762
+            }
+        ]
+    },
+    {
+        "Count": 2,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Mercedes-Benz CLA-Class 4 DR 4WD",
+                "VehicleId": 16796
+            },
+            {
+                "VehicleDescription": "2022 Mercedes-Benz CLA-Class 4 DR FWD",
+                "VehicleId": 16774
+            }
+        ]
+    },
+    {
+        "Count": 2,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Mercedes-Benz CLS-Class 4 DR 4WD",
+                "VehicleId": 16791
+            },
+            {
+                "VehicleDescription": "2022 Mercedes-Benz CLS-Class 4 DR RWD",
+                "VehicleId": 16768
+            }
+        ]
+    },
+    {
+        "Count": 2,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Mercedes-Benz E-Class 4 DR 4WD",
+                "VehicleId": 16787
+            },
+            {
+                "VehicleDescription": "2022 Mercedes-Benz E-Class 4 DR RWD",
+                "VehicleId": 16764
+            }
+        ]
+    },
+    {
+        "Count": 2,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Mercedes-Benz E-Class Cabriolet C 4WD",
+                "VehicleId": 16790
+            },
+            {
+                "VehicleDescription": "2022 Mercedes-Benz E-Class Cabriolet C RWD",
+                "VehicleId": 16767
+            }
+        ]
+    },
+    {
+        "Count": 2,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Mercedes-Benz E-Class Coupe 2 DR 4WD",
+                "VehicleId": 16789
+            },
+            {
+                "VehicleDescription": "2022 Mercedes-Benz E-Class Coupe 2 DR RWD",
+                "VehicleId": 16766
+            }
+        ]
+    },
+    {
+        "Count": 2,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Mercedes-Benz E-Class station wagon SW 4WD",
+                "VehicleId": 16788
+            },
+            {
+                "VehicleDescription": "2022 Mercedes-Benz E-Class station wagon SW RWD",
+                "VehicleId": 16765
+            }
+        ]
+    },
+    {
+        "Count": 2,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Mercedes-Benz EQS 4 DR 4WD",
+                "VehicleId": 16793
+            },
+            {
+                "VehicleDescription": "2022 Mercedes-Benz EQS 4 DR RWD",
+                "VehicleId": 16770
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Mercedes-Benz G-Class SUV 4WD",
+                "VehicleId": 16781
+            }
+        ]
+    },
+    {
+        "Count": 2,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Mercedes-Benz GLA-Class SUV 4WD",
+                "VehicleId": 16797
+            },
+            {
+                "VehicleDescription": "2022 Mercedes-Benz GLA-Class SUV FWD",
+                "VehicleId": 16775
+            }
+        ]
+    },
+    {
+        "Count": 2,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Mercedes-Benz GLB-Class SUV 4WD",
+                "VehicleId": 16798
+            },
+            {
+                "VehicleDescription": "2022 Mercedes-Benz GLB-Class SUV FWD",
+                "VehicleId": 16776
+            }
+        ]
+    },
+    {
+        "Count": 2,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Mercedes-Benz GLC-Class SUV 4WD",
+                "VehicleId": 16799
+            },
+            {
+                "VehicleDescription": "2022 Mercedes-Benz GLC-Class SUV RWD",
+                "VehicleId": 16777
+            }
+        ]
+    },
+    {
+        "Count": 2,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Mercedes-Benz GLC-Class Coupe SUV 4WD",
+                "VehicleId": 16800
+            },
+            {
+                "VehicleDescription": "2022 Mercedes-Benz GLC-Class Coupe SUV RWD",
+                "VehicleId": 16778
+            }
+        ]
+    },
+    {
+        "Count": 2,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Mercedes-Benz GLE-Class SUV 4WD",
+                "VehicleId": 16801
+            },
+            {
+                "VehicleDescription": "2022 Mercedes-Benz GLE-Class SUV RWD",
+                "VehicleId": 16779
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Mercedes-Benz GLE-Class Coupe SUV 4WD",
+                "VehicleId": 16780
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Mercedes-Benz GLS-Class SUV 4WD",
+                "VehicleId": 16782
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Mercedes-Benz GT Class 4DR 4 DR 4WD",
+                "VehicleId": 16783
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Mercedes-Benz Mercedes-Maybach S-Class 4 DR 4WD",
+                "VehicleId": 16771
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Mercedes-Benz Metris Cargo VAN RWD",
+                "VehicleId": 16929
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Mercedes-Benz Metris Passenger VAN RWD",
+                "VehicleId": 16930
+            }
+        ]
+    },
+    {
+        "Count": 2,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Mercedes-Benz S-Class 4 DR 4WD",
+                "VehicleId": 16792
+            },
+            {
+                "VehicleDescription": "2022 Mercedes-Benz S-Class 4 DR RWD",
+                "VehicleId": 16769
+            }
+        ]
+    },
+    {
+        "Count": 2,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Mercedes-Benz SL-Class C 4WD",
+                "VehicleId": 16794
+            },
+            {
+                "VehicleDescription": "2022 Mercedes-Benz SL-Class C RWD",
+                "VehicleId": 16772
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Mercedes-Benz Sprinter 1500 Cargo Van VAN RWD",
+                "VehicleId": 16934
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Mercedes-Benz Sprinter 1500 Passenger Van VAN RWD",
+                "VehicleId": 16931
+            }
+        ]
+    },
+    {
+        "Count": 2,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Mercedes-Benz Sprinter 2500 12 Passenger Van VAN AWD",
+                "VehicleId": 16955
+            },
+            {
+                "VehicleDescription": "2022 Mercedes-Benz Sprinter 2500 12 Passenger Van VAN RWD",
+                "VehicleId": 16932
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Mercedes-Benz Sprinter 2500 15 Passenger Van VAN RWD",
+                "VehicleId": 16933
+            }
+        ]
+    },
+    {
+        "Count": 2,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Mercedes-Benz Sprinter 2500 Cargo Van (LWB) VAN AWD",
+                "VehicleId": 16956
+            },
+            {
+                "VehicleDescription": "2022 Mercedes-Benz Sprinter 2500 Cargo Van (LWB) VAN RWD",
+                "VehicleId": 16935
+            }
+        ]
+    },
+    {
+        "Count": 2,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Mercedes-Benz Sprinter 2500 Cargo Van (SWB) VAN AWD",
+                "VehicleId": 16957
+            },
+            {
+                "VehicleDescription": "2022 Mercedes-Benz Sprinter 2500 Cargo Van (SWB) VAN RWD",
+                "VehicleId": 16936
+            }
+        ]
+    },
+    {
+        "Count": 2,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Mercedes-Benz Sprinter 2500 Crew Van (LWB) VAN AWD",
+                "VehicleId": 16959
+            },
+            {
+                "VehicleDescription": "2022 Mercedes-Benz Sprinter 2500 Crew Van (LWB) VAN RWD",
+                "VehicleId": 16939
+            }
+        ]
+    },
+    {
+        "Count": 2,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Mercedes-Benz Sprinter 2500 Crew Van (SWB) VAN AWD",
+                "VehicleId": 16958
+            },
+            {
+                "VehicleDescription": "2022 Mercedes-Benz Sprinter 2500 Crew Van (SWB) VAN RWD",
+                "VehicleId": 16938
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Mercedes-Benz Sprinter 3500 Cargo Van VAN RWD",
+                "VehicleId": 16937
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Mercedes-Benz Sprinter 3500 Crew Van VAN RWD",
+                "VehicleId": 16940
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Mercedes-Benz Sprinter 4500 Cargo Van VAN RWD",
+                "VehicleId": 16942
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Mercedes-Benz Sprinter 4500 Crew Van VAN RWD",
+                "VehicleId": 16941
+            }
+        ]
+    },
+    {
+        "Count": 2,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Mini Clubman 5 HB AWD",
+                "VehicleId": 16213
+            },
+            {
+                "VehicleDescription": "2022 Mini Clubman 5 HB FWD",
+                "VehicleId": 16140
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Mini Convertible C FWD",
+                "VehicleId": 16139
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Mini Cooper SE 3 HB FWD",
+                "VehicleId": 16137
+            }
+        ]
+    },
+    {
+        "Count": 2,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Mini Countryman 5 HB AWD",
+                "VehicleId": 16214
+            },
+            {
+                "VehicleDescription": "2022 Mini Countryman 5 HB FWD",
+                "VehicleId": 16141
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Mini Countryman SE 5 HB AWD",
+                "VehicleId": 16142
+            }
+        ]
+    },
+    {
+        "Count": 2,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Mini Hardtop 5 HB FWD",
+                "VehicleId": 16138
+            },
+            {
+                "VehicleDescription": "2022 Mini Hardtop 3 HB FWD",
+                "VehicleId": 16136
+            }
+        ]
+    },
+    {
+        "Count": 2,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Mitsubishi ECLIPSE CROSS SUV AWD",
+                "VehicleId": 15931
+            },
+            {
+                "VehicleDescription": "2022 Mitsubishi ECLIPSE CROSS SUV FWD",
+                "VehicleId": 15930
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Mitsubishi MIRAGE 5 HB FWD",
+                "VehicleId": 16889
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Mitsubishi MIRAGE G4 4 DR FWD",
+                "VehicleId": 16890
+            }
+        ]
+    },
+    {
+        "Count": 2,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Mitsubishi Outlander SUV FWD",
+                "VehicleId": 16040
+            },
+            {
+                "VehicleDescription": "2022 Mitsubishi Outlander SUV AWD",
+                "VehicleId": 16039
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Mitsubishi OUTLANDER PHEV SUV AWD",
+                "VehicleId": 16057
+            }
+        ]
+    },
+    {
+        "Count": 2,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Mitsubishi OUTLANDER SPORT SUV AWD",
+                "VehicleId": 16892
+            },
+            {
+                "VehicleDescription": "2022 Mitsubishi OUTLANDER SPORT SUV FWD",
+                "VehicleId": 16891
+            }
+        ]
+    },
+    {
+        "Count": 2,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Nissan Altima 4DR AWD",
+                "VehicleId": 16821
+            },
+            {
+                "VehicleDescription": "2022 Nissan Altima 4DR FWD",
+                "VehicleId": 16804
+            }
+        ]
+    },
+    {
+        "Count": 2,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Nissan Armada SUV AWD",
+                "VehicleId": 16829
+            },
+            {
+                "VehicleDescription": "2022 Nissan Armada SUV RWD",
+                "VehicleId": 16816
+            }
+        ]
+    },
+    {
+        "Count": 4,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Nissan Frontier Crew Cab PU/CC 4WD",
+                "VehicleId": 16823
+            },
+            {
+                "VehicleDescription": "2022 Nissan Frontier King Cab PU/EC 4WD",
+                "VehicleId": 16822
+            },
+            {
+                "VehicleDescription": "2022 Nissan Frontier Crew Cab PU/CC RWD",
+                "VehicleId": 16807
+            },
+            {
+                "VehicleDescription": "2022 Nissan Frontier King Cab PU/EC RWD",
+                "VehicleId": 16806
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Nissan Kicks SUV FWD",
+                "VehicleId": 17009
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Nissan LEAF (40 KWh Battery) 5 HB FWD",
+                "VehicleId": 16812
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Nissan LEAF PLUS (62 KWh Battery) 5 HB FWD",
+                "VehicleId": 16813
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Nissan Maxima 4 FWD",
+                "VehicleId": 16805
+            }
+        ]
+    },
+    {
+        "Count": 2,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Nissan Murano SUV AWD",
+                "VehicleId": 16827
+            },
+            {
+                "VehicleDescription": "2022 Nissan Murano SUV FWD",
+                "VehicleId": 16814
+            }
+        ]
+    },
+    {
+        "Count": 2,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Nissan Pathfinder SUV AWD",
+                "VehicleId": 16045
+            },
+            {
+                "VehicleDescription": "2022 Nissan Pathfinder SUV FWD",
+                "VehicleId": 16041
+            }
+        ]
+    },
+    {
+        "Count": 4,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Nissan Rogue SUV FWD Later Release",
+                "VehicleId": 17136
+            },
+            {
+                "VehicleDescription": "2022 Nissan Rogue SUV AWD Later Release",
+                "VehicleId": 17135
+            },
+            {
+                "VehicleDescription": "2022 Nissan Rogue SUV AWD Early Release",
+                "VehicleId": 16828
+            },
+            {
+                "VehicleDescription": "2022 Nissan Rogue SUV FWD  Early Release",
+                "VehicleId": 16815
+            }
+        ]
+    },
+    {
+        "Count": 2,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Nissan Rogue Sport SUV AWD",
+                "VehicleId": 16830
+            },
+            {
+                "VehicleDescription": "2022 Nissan Rogue Sport SUV FWD",
+                "VehicleId": 16817
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Nissan Sentra 4 FWD",
+                "VehicleId": 16803
+            }
+        ]
+    },
+    {
+        "Count": 2,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Nissan Titan Crew Cab PU/CC 4WD",
+                "VehicleId": 16825
+            },
+            {
+                "VehicleDescription": "2022 Nissan Titan Crew Cab PU/CC RWD",
+                "VehicleId": 16810
+            }
+        ]
+    },
+    {
+        "Count": 2,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Nissan Titan King Cab PU/EC 4WD",
+                "VehicleId": 16824
+            },
+            {
+                "VehicleDescription": "2022 Nissan Titan King Cab PU/EC RWD",
+                "VehicleId": 16809
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Nissan Titan XD Crew Cab PU/CC 4WD",
+                "VehicleId": 16808
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Nissan Versa 4 FWD",
+                "VehicleId": 16802
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Polestar Polestar 2 4 DR AWD",
+                "VehicleId": 17008
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Porsche 718 Boxster C RWD",
+                "VehicleId": 16690
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Porsche 718 Boxster GTS 4.0 C RWD",
+                "VehicleId": 16693
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Porsche 718 Boxster S C RWD",
+                "VehicleId": 16692
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Porsche 718 Boxster T C RWD",
+                "VehicleId": 16691
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Porsche 718 Cayman 2 DR RWD",
+                "VehicleId": 16685
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Porsche 718 Cayman GT4 2 DR RWD",
+                "VehicleId": 16689
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Porsche 718 Cayman GTS 4.0 2 DR RWD",
+                "VehicleId": 16688
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Porsche 718 Cayman S 2 DR RWD",
+                "VehicleId": 16687
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Porsche 718 Cayman T 2 DR RWD",
+                "VehicleId": 16686
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Porsche 718 Spyder C RWD",
+                "VehicleId": 16695
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Porsche 911 Carrera 2 DR RWD",
+                "VehicleId": 16696
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Porsche 911 Carrera 4 2 DR AWD",
+                "VehicleId": 16698
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Porsche 911 Carrera 4 Cabriolet C AWD",
+                "VehicleId": 16699
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Porsche 911 Carrera 4 GTS 2 DR AWD",
+                "VehicleId": 16708
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Porsche 911 Carrera 4 GTS Cabriolet C AWD",
+                "VehicleId": 16709
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Porsche 911 Carrera 4S 2 DR AWD",
+                "VehicleId": 16702
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Porsche 911 Carrera 4S Cabriolet C AWD",
+                "VehicleId": 16703
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Porsche 911 Carrera Cabriolet C RWD",
+                "VehicleId": 16697
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Porsche 911 Carrera GTS 2 DR RWD",
+                "VehicleId": 16706
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Porsche 911 Carrera GTS Cabriolet C RWD",
+                "VehicleId": 16707
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Porsche 911 Carrera S 2 DR RWD",
+                "VehicleId": 16700
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Porsche 911 Carrera S Cabriolet C RWD",
+                "VehicleId": 16701
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Porsche 911 GT3 2 DR RWD",
+                "VehicleId": 16715
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Porsche 911 GT3 Touring 2 DR RWD",
+                "VehicleId": 16716
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Porsche 911 Targa 4 2 DR AWD",
+                "VehicleId": 16704
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Porsche 911 Targa 4 GTS 2 DR AWD",
+                "VehicleId": 16710
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Porsche 911 Targa 4S 2 DR AWD",
+                "VehicleId": 16705
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Porsche 911 Turbo 2 DR AWD",
+                "VehicleId": 16711
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Porsche 911 Turbo Cabriolet C AWD",
+                "VehicleId": 16712
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Porsche 911 Turbo S 2 DR AWD",
+                "VehicleId": 16713
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Porsche 911 Turbo S Cabriolet C AWD",
+                "VehicleId": 16714
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Porsche Boxster 25 Years C RWD",
+                "VehicleId": 16694
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Porsche Cayenne SUV AWD",
+                "VehicleId": 16717
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Porsche Cayenne Coupe SUV AWD",
+                "VehicleId": 16723
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Porsche Cayenne E-Hybrid SUV AWD",
+                "VehicleId": 16719
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Porsche Cayenne E-Hybrid Coupe SUV AWD",
+                "VehicleId": 16725
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Porsche Cayenne GTS SUV AWD",
+                "VehicleId": 16720
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Porsche Cayenne GTS Coupe SUV AWD",
+                "VehicleId": 16726
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Porsche Cayenne S SUV AWD",
+                "VehicleId": 16718
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Porsche Cayenne S Coupe SUV AWD",
+                "VehicleId": 16724
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Porsche Cayenne Turbo SUV AWD",
+                "VehicleId": 16721
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Porsche Cayenne Turbo Coupe SUV AWD",
+                "VehicleId": 16727
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Porsche Cayenne Turbo S E-Hybrid SUV AWD",
+                "VehicleId": 16722
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Porsche Cayenne Turbo S E-Hybrid Coupe SUV AWD",
+                "VehicleId": 16728
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Porsche Macan SUV AWD",
+                "VehicleId": 16729
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Porsche Macan GTS SUV AWD",
+                "VehicleId": 16731
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Porsche Macan S SUV AWD",
+                "VehicleId": 16730
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Porsche Panamera 4 DR RWD",
+                "VehicleId": 16732
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Porsche Panamera 4 4 DR AWD",
+                "VehicleId": 16733
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Porsche Panamera 4 E-Hybrid 4 DR AWD",
+                "VehicleId": 16736
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Porsche Panamera 4 E-Hybrid Executive 4 DR AWD",
+                "VehicleId": 16737
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Porsche Panamera 4 E-Hybrid Sport Turismo SW AWD",
+                "VehicleId": 16738
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Porsche Panamera 4 Executive 4 DR AWD",
+                "VehicleId": 16734
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Porsche Panamera 4 Sport Turismo SW AWD",
+                "VehicleId": 16735
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Porsche Panamera 4S 4 DR AWD",
+                "VehicleId": 16739
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Porsche Panamera 4S E-Hybrid 4 DR AWD",
+                "VehicleId": 16742
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Porsche Panamera 4S E-Hybrid Executive 4 DR AWD",
+                "VehicleId": 16743
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Porsche Panamera 4S E-Hybrid Sport Turismo SW AWD",
+                "VehicleId": 16744
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Porsche Panamera 4S Executive 4 DR AWD",
+                "VehicleId": 16740
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Porsche Panamera 4S Sport Turismo SW AWD",
+                "VehicleId": 16741
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Porsche Panamera GTS 4 DR AWD",
+                "VehicleId": 16745
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Porsche Panamera GTS Sport Turismo SW AWD",
+                "VehicleId": 16746
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Porsche Panamera Turbo S 4 DR AWD",
+                "VehicleId": 16747
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Porsche Panamera Turbo S E-Hybrid 4 DR AWD",
+                "VehicleId": 16750
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Porsche Panamera Turbo S E-Hybrid Executive 4 DR AWD",
+                "VehicleId": 16751
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Porsche Panamera Turbo S E-Hybrid Sport Turismo SW AWD",
+                "VehicleId": 16752
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Porsche Panamera Turbo S Executive 4 DR AWD",
+                "VehicleId": 16748
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Porsche Panamera Turbo S Sport Turismo SW AWD",
+                "VehicleId": 16749
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Porsche Taycan 4 DR RWD",
+                "VehicleId": 16753
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Porsche Taycan 4 Cross Turismo 4 DR AWD",
+                "VehicleId": 16757
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Porsche Taycan 4S 4 DR AWD",
+                "VehicleId": 16754
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Porsche Taycan 4S Cross Turismo 4 DR AWD",
+                "VehicleId": 16758
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Porsche Taycan Turbo 4 DR AWD",
+                "VehicleId": 16755
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Porsche Taycan Turbo Cross Turismo 4 DR AWD",
+                "VehicleId": 16759
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Porsche Taycan Turbo S 4 DR AWD",
+                "VehicleId": 16756
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Porsche Taycan Turbo S Cross Turismo 4 DR AWD",
+                "VehicleId": 16760
+            }
+        ]
+    },
+    {
+        "Count": 2,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Ram 1500 Classic Crew Cab PU/CC 4WD",
+                "VehicleId": 16470
+            },
+            {
+                "VehicleDescription": "2022 Ram 1500 Classic Crew Cab PU/CC 2WD",
+                "VehicleId": 16442
+            }
+        ]
+    },
+    {
+        "Count": 2,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Ram 1500 Classic Quad Cab PU/EC 4WD",
+                "VehicleId": 16469
+            },
+            {
+                "VehicleDescription": "2022 Ram 1500 Classic Quad Cab PU/EC 2WD",
+                "VehicleId": 16441
+            }
+        ]
+    },
+    {
+        "Count": 2,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Ram 1500 Classic Regular Cab PU/RC 4WD",
+                "VehicleId": 16468
+            },
+            {
+                "VehicleDescription": "2022 Ram 1500 Classic Regular Cab PU/RC 2WD",
+                "VehicleId": 16440
+            }
+        ]
+    },
+    {
+        "Count": 2,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Ram 1500 Crew Cab PU/CC 4WD",
+                "VehicleId": 16472
+            },
+            {
+                "VehicleDescription": "2022 Ram 1500 Crew Cab PU/CC 2WD",
+                "VehicleId": 16444
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Ram 1500 Crew Cab TRX PU/CC 4WD",
+                "VehicleId": 16445
+            }
+        ]
+    },
+    {
+        "Count": 2,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Ram 1500 Quad Cab PU/EC 4WD",
+                "VehicleId": 16471
+            },
+            {
+                "VehicleDescription": "2022 Ram 1500 Quad Cab PU/EC 2WD",
+                "VehicleId": 16443
+            }
+        ]
+    },
+    {
+        "Count": 2,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Ram 2500 Crew Cab PU/CC 4WD",
+                "VehicleId": 16474
+            },
+            {
+                "VehicleDescription": "2022 Ram 2500 Crew Cab PU/CC 2WD",
+                "VehicleId": 16447
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Ram 2500 Mega Cab PU/CC 4WD",
+                "VehicleId": 16448
+            }
+        ]
+    },
+    {
+        "Count": 2,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Ram 2500 Regular Cab PU/RC 4WD",
+                "VehicleId": 16473
+            },
+            {
+                "VehicleDescription": "2022 Ram 2500 Regular Cab PU/RC 2WD",
+                "VehicleId": 16446
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Ram ProMaster VAN FWD",
+                "VehicleId": 16450
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Ram ProMaster City VAN FWD",
+                "VehicleId": 16449
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Rolls-Royce Cullinan SUV AWD",
+                "VehicleId": 16147
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Rolls-Royce Ghost 4 DR RWD",
+                "VehicleId": 16145
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Rolls-Royce Ghost EWB 4 DR RWD",
+                "VehicleId": 16146
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Rolls-Royce Phantom 4 DR RWD",
+                "VehicleId": 16143
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Rolls-Royce Phantom EWB 4 DR RWD",
+                "VehicleId": 16144
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Subaru Ascent SUV AWD",
+                "VehicleId": 16680
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Subaru BRZ 2 DR RWD",
+                "VehicleId": 16681
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Subaru Crosstrek SW AWD",
+                "VehicleId": 16677
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Subaru Crosstrek Hybrid SW AWD",
+                "VehicleId": 16678
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Subaru Forester SUV AWD",
+                "VehicleId": 16679
+            }
+        ]
+    },
+    {
+        "Count": 2,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Subaru Impreza SW AWD",
+                "VehicleId": 16676
+            },
+            {
+                "VehicleDescription": "2022 Subaru Impreza 4 DR AWD",
+                "VehicleId": 16675
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Subaru Legacy 4 DR AWD",
+                "VehicleId": 16673
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Subaru Outback SW AWD",
+                "VehicleId": 16674
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Subaru WRX 4 DR AWD",
+                "VehicleId": 17036
+            }
+        ]
+    },
+    {
+        "Count": 2,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Tesla Model 3 4 DR AWD",
+                "VehicleId": 16534
+            },
+            {
+                "VehicleDescription": "2022 Tesla Model 3 4 DR RWD",
+                "VehicleId": 16533
+            }
+        ]
+    },
+    {
+        "Count": 2,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Tesla Model Y  5-Seat SUV RWD",
+                "VehicleId": 16536
+            },
+            {
+                "VehicleDescription": "2022 Tesla Model Y  5-Seat SUV AWD",
+                "VehicleId": 16535
+            }
+        ]
+    },
+    {
+        "Count": 2,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Tesla Model Y 7-Seat SUV RWD",
+                "VehicleId": 16538
+            },
+            {
+                "VehicleDescription": "2022 Tesla Model Y 7-Seat SUV AWD",
+                "VehicleId": 16537
+            }
+        ]
+    },
+    {
+        "Count": 2,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Toyota 4RUNNER SUV AWD",
+                "VehicleId": 16664
+            },
+            {
+                "VehicleDescription": "2022 Toyota 4RUNNER SUV 2WD",
+                "VehicleId": 16639
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Toyota AVALON 4 DR FWD",
+                "VehicleId": 16630
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Toyota AVALON HYBRID 4 DR FWD",
+                "VehicleId": 16631
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Toyota C-HR 5 HB FWD",
+                "VehicleId": 16650
+            }
+        ]
+    },
+    {
+        "Count": 2,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Toyota CAMRY 4 DR AWD",
+                "VehicleId": 16662
+            },
+            {
+                "VehicleDescription": "2022 Toyota CAMRY 4 DR FWD",
+                "VehicleId": 16632
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Toyota CAMRY HYBRID 4 DR FWD",
+                "VehicleId": 16633
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Toyota COROLLA 4 DR FWD",
+                "VehicleId": 16634
+            }
+        ]
+    },
+    {
+        "Count": 2,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Toyota COROLLA CROSS SUV AWD",
+                "VehicleId": 16984
+            },
+            {
+                "VehicleDescription": "2022 Toyota COROLLA CROSS SUV FWD",
+                "VehicleId": 16983
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Toyota COROLLA HATCHBACK 5 HB FWD",
+                "VehicleId": 16636
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Toyota COROLLA HYBRID 4 DR FWD",
+                "VehicleId": 16635
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Toyota GR86 2 DR RWD",
+                "VehicleId": 16682
+            }
+        ]
+    },
+    {
+        "Count": 2,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Toyota HIGHLANDER SUV AWD",
+                "VehicleId": 16668
+            },
+            {
+                "VehicleDescription": "2022 Toyota HIGHLANDER SUV FWD",
+                "VehicleId": 16645
+            }
+        ]
+    },
+    {
+        "Count": 2,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Toyota HIGHLANDER HYBRID SUV AWD",
+                "VehicleId": 16669
+            },
+            {
+                "VehicleDescription": "2022 Toyota HIGHLANDER HYBRID SUV FWD",
+                "VehicleId": 16646
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Toyota MIRAI 4 DR RWD",
+                "VehicleId": 16649
+            }
+        ]
+    },
+    {
+        "Count": 2,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Toyota PRIUS 5 HB AWD",
+                "VehicleId": 16663
+            },
+            {
+                "VehicleDescription": "2022 Toyota PRIUS 5 HB FWD",
+                "VehicleId": 16637
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Toyota PRIUS PRIME 5 HB FWD",
+                "VehicleId": 16638
+            }
+        ]
+    },
+    {
+        "Count": 2,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Toyota RAV4 SUV AWD",
+                "VehicleId": 16665
+            },
+            {
+                "VehicleDescription": "2022 Toyota RAV4 SUV FWD",
+                "VehicleId": 16640
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Toyota RAV4 HYBRID SUV AWD",
+                "VehicleId": 16641
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Toyota RAV4 PRIME SUV AWD",
+                "VehicleId": 16642
+            }
+        ]
+    },
+    {
+        "Count": 2,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Toyota SEQUOIA SUV 4WD",
+                "VehicleId": 16667
+            },
+            {
+                "VehicleDescription": "2022 Toyota SEQUOIA SUV 2WD",
+                "VehicleId": 16644
+            }
+        ]
+    },
+    {
+        "Count": 2,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Toyota SIENNA HYBRID VAN AWD",
+                "VehicleId": 16666
+            },
+            {
+                "VehicleDescription": "2022 Toyota SIENNA HYBRID VAN FWD",
+                "VehicleId": 16643
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Toyota Supra 2 DR RWD",
+                "VehicleId": 16102
+            }
+        ]
+    },
+    {
+        "Count": 4,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Toyota TACOMA PU/CC 4WD",
+                "VehicleId": 16671
+            },
+            {
+                "VehicleDescription": "2022 Toyota TACOMA PU/EC 4WD",
+                "VehicleId": 16670
+            },
+            {
+                "VehicleDescription": "2022 Toyota TACOMA PU/CC 2WD",
+                "VehicleId": 16648
+            },
+            {
+                "VehicleDescription": "2022 Toyota TACOMA PU/EC 2WD",
+                "VehicleId": 16647
+            }
+        ]
+    },
+    {
+        "Count": 4,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Toyota TUNDRA PU/CC 4WD",
+                "VehicleId": 17035
+            },
+            {
+                "VehicleDescription": "2022 Toyota TUNDRA PU/CC 2WD",
+                "VehicleId": 17034
+            },
+            {
+                "VehicleDescription": "2022 Toyota TUNDRA PU/EC 4WD",
+                "VehicleId": 17033
+            },
+            {
+                "VehicleDescription": "2022 Toyota TUNDRA PU/EC 2WD",
+                "VehicleId": 17032
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Toyota VENZA HYBRID SUV AWD",
+                "VehicleId": 16651
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Volkswagen Arteon SE 4 DR FWD",
+                "VehicleId": 16500
+            }
+        ]
+    },
+    {
+        "Count": 2,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Volkswagen Arteon SEL Premium R-Line 4 DR AWD",
+                "VehicleId": 16514
+            },
+            {
+                "VehicleDescription": "2022 Volkswagen Arteon SEL Premium R-Line 4 DR FWD",
+                "VehicleId": 16502
+            }
+        ]
+    },
+    {
+        "Count": 2,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Volkswagen Arteon SEL R-Line 4 DR AWD",
+                "VehicleId": 16513
+            },
+            {
+                "VehicleDescription": "2022 Volkswagen Arteon SEL R-Line 4 DR FWD",
+                "VehicleId": 16501
+            }
+        ]
+    },
+    {
+        "Count": 2,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Volkswagen Atlas SUV AWD",
+                "VehicleId": 16515
+            },
+            {
+                "VehicleDescription": "2022 Volkswagen Atlas SUV FWD",
+                "VehicleId": 16503
+            }
+        ]
+    },
+    {
+        "Count": 2,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Volkswagen Atlas Cross Sport SUV AWD",
+                "VehicleId": 16516
+            },
+            {
+                "VehicleDescription": "2022 Volkswagen Atlas Cross Sport SUV FWD",
+                "VehicleId": 16504
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Volkswagen Golf GTI 4 DR FWD",
+                "VehicleId": 16505
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Volkswagen Golf R 4 DR AWD",
+                "VehicleId": 16506
+            }
+        ]
+    },
+    {
+        "Count": 2,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Volkswagen ID.4 SUV AWD",
+                "VehicleId": 16517
+            },
+            {
+                "VehicleDescription": "2022 Volkswagen ID.4 SUV RWD",
+                "VehicleId": 16507
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Volkswagen Jetta 4 DR FWD",
+                "VehicleId": 16508
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Volkswagen Jetta GLI 4 DR FWD",
+                "VehicleId": 16509
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Volkswagen Passat 4 DR FWD",
+                "VehicleId": 16510
+            }
+        ]
+    },
+    {
+        "Count": 2,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Volkswagen Taos SUV AWD",
+                "VehicleId": 16518
+            },
+            {
+                "VehicleDescription": "2022 Volkswagen Taos SUV FWD",
+                "VehicleId": 16511
+            }
+        ]
+    },
+    {
+        "Count": 2,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Volkswagen Tiguan SUV AWD",
+                "VehicleId": 16519
+            },
+            {
+                "VehicleDescription": "2022 Volkswagen Tiguan SUV FWD",
+                "VehicleId": 16512
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Volvo C40 P8 Recharge 4 DR AWD",
+                "VehicleId": 16985
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Volvo S60 B5 AWD 4 DR AWD",
+                "VehicleId": 16987
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Volvo S60 B5 FWD 4 DR FWD",
+                "VehicleId": 16986
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Volvo S60 T6 AWD 4 DR AWD",
+                "VehicleId": 16988
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Volvo S60 T8 Polestar Engineered 4 DR AWD",
+                "VehicleId": 16990
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Volvo S60 T8 Recharge 4 DR AWD",
+                "VehicleId": 16989
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Volvo S90 B6 AWD 4 DR AWD",
+                "VehicleId": 16993
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Volvo S90 T8 Recharge 4 DR AWD",
+                "VehicleId": 16994
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Volvo V60 CC T5 AWD SW AWD",
+                "VehicleId": 16992
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Volvo V60 T8 Polestar Engineered SW AWD",
+                "VehicleId": 16991
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Volvo V90 CC B6 AWD SW AWD",
+                "VehicleId": 16995
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Volvo XC40 P8 Recharge AWD SUV AWD",
+                "VehicleId": 16998
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Volvo XC40 T4 FWD SUV FWD",
+                "VehicleId": 16997
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Volvo XC40 T5 AWD SUV AWD",
+                "VehicleId": 16996
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Volvo XC60 B5 AWD SUV AWD",
+                "VehicleId": 17000
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Volvo XC60 B5 FWD SUV FWD",
+                "VehicleId": 16999
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Volvo XC60 B6 AWD SUV AWD",
+                "VehicleId": 17001
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Volvo XC60 T8 Polestar Engineered SUV AWD",
+                "VehicleId": 17003
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Volvo XC60 T8 Recharge SUV AWD",
+                "VehicleId": 17002
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Volvo XC90 T5 AWD SUV AWD",
+                "VehicleId": 17005
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Volvo XC90 T5 FWD SUV FWD",
+                "VehicleId": 17004
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Volvo XC90 T6 AWD SUV AWD",
+                "VehicleId": 17006
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "VehicleDescription": "2022 Volvo XC90 T8 Recharge SUV AWD",
+                "VehicleId": 17007
+            }
+        ]
+    }
+]

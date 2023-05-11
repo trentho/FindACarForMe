@@ -1,0 +1,60 @@
+image: node:14.20.1-alpine
+
+stages:
+  - build
+  - test
+
+build-frontend:
+  stage: build
+  script:
+    - echo "Testing frontend build..."
+    - echo "Installing dependencies..."
+    - cd front-end
+    - npm install --silent
+    - npm install react-scripts@3.4.1 -g --silent
+    - echo "Building code..."
+    - npm run-script build # CI=false because I saw it in previous groups' repos
+    - echo "Compile complete."      # and it's to test to see if it fixes our pipeline issues
+
+jest_tests:
+  stage: test
+  script:
+    - echo "Running jest on frontend..."
+    - echo "Installing dependencies..."
+    - cd front-end
+    - npm install
+    - npm install --silent
+    - npm install react-scripts@3.4.1 -g --silent
+    - npm install enzyme @mui/material @emotion/react @emotion/styled --silent
+    - echo "Testing..."
+    - npm test
+
+backend-test:
+  stage: test
+  image: python:3.8-alpine
+  before_script:
+    - python3 -m pip install -r backend/requirements.txt
+  script:
+    - cd backend
+    - echo "Running unittest..."
+    - python3 test.py
+
+api-test:
+  stage: test
+  image:
+    name: postman/newman:alpine
+    entrypoint: [""]
+  script:
+    - newman run https://www.getpostman.com/collections/e66381faf4088869ef73 
+
+selenium-test:
+  stage: test
+  image: python:3.9
+  services:
+    - name: selenium/standalone-chrome
+      alias: chrome
+  before_script:
+    - python3 -m pip install -r front-end/selenium/requirements.txt
+  script:
+    - echo "Running Selenium WebDriver tests..."
+    - python3 front-end/selenium/test_frontend.py

@@ -1,0 +1,3764 @@
+[
+    {
+        "Count": 5,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "ModelYear": 2022,
+                "Make": "ACURA",
+                "Model": "ILX",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "ACURA",
+                "Model": "MDX",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "ACURA",
+                "Model": "NSX",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "ACURA",
+                "Model": "RDX",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "ACURA",
+                "Model": "TLX",
+                "VehicleId": 0
+            }
+        ]
+    },
+    {
+        "Count": 4,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "ModelYear": 2022,
+                "Make": "ALFA",
+                "Model": "GIULIA",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "ALFA",
+                "Model": "GIULIA QUADRIFOGLIO",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "ALFA",
+                "Model": "STELVIO",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "ALFA",
+                "Model": "STELVIO QUADRIFOGLIO",
+                "VehicleId": 0
+            }
+        ]
+    },
+    {
+        "Count": 49,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "ModelYear": 2022,
+                "Make": "AUDI",
+                "Model": "AUDI A3",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "AUDI",
+                "Model": "AUDI A4",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "AUDI",
+                "Model": "AUDI A4 ALLROAD",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "AUDI",
+                "Model": "AUDI A5",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "AUDI",
+                "Model": "AUDI A5 CABRIOLET",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "AUDI",
+                "Model": "AUDI A5 SPORTBACK",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "AUDI",
+                "Model": "AUDI A6",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "AUDI",
+                "Model": "AUDI A6 ALLROAD",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "AUDI",
+                "Model": "AUDI A7",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "AUDI",
+                "Model": "AUDI A7 PHEV",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "AUDI",
+                "Model": "AUDI A8 LWB",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "AUDI",
+                "Model": "AUDI E-TRON",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "AUDI",
+                "Model": "AUDI E-TRON GT",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "AUDI",
+                "Model": "AUDI E-TRON S",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "AUDI",
+                "Model": "AUDI E-TRON S SPORTBACK",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "AUDI",
+                "Model": "AUDI E-TRON SPORTBACK",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "AUDI",
+                "Model": "AUDI Q3",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "AUDI",
+                "Model": "AUDI Q4 E-TRON",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "AUDI",
+                "Model": "AUDI Q4 SPORTBACK E-TRON",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "AUDI",
+                "Model": "AUDI Q5",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "AUDI",
+                "Model": "AUDI Q5 PHEV",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "AUDI",
+                "Model": "AUDI Q5 SPORTBACK",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "AUDI",
+                "Model": "AUDI Q7",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "AUDI",
+                "Model": "AUDI Q8",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "AUDI",
+                "Model": "AUDI R8",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "AUDI",
+                "Model": "AUDI R8 SPYDER",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "AUDI",
+                "Model": "AUDI RS 3",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "AUDI",
+                "Model": "AUDI RS 5",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "AUDI",
+                "Model": "AUDI RS 5 SPORTBACK",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "AUDI",
+                "Model": "AUDI RS 6 AVANT",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "AUDI",
+                "Model": "AUDI RS 7",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "AUDI",
+                "Model": "AUDI RS E-TRON GT",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "AUDI",
+                "Model": "AUDI RS Q8",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "AUDI",
+                "Model": "AUDI S3",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "AUDI",
+                "Model": "AUDI S4",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "AUDI",
+                "Model": "AUDI S5",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "AUDI",
+                "Model": "AUDI S5 CABRIOLET",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "AUDI",
+                "Model": "AUDI S5 SPORTBACK",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "AUDI",
+                "Model": "AUDI S6",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "AUDI",
+                "Model": "AUDI S7",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "AUDI",
+                "Model": "AUDI S8 LWB",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "AUDI",
+                "Model": "AUDI SQ5",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "AUDI",
+                "Model": "AUDI SQ5 SPORTBACK",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "AUDI",
+                "Model": "AUDI SQ7",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "AUDI",
+                "Model": "AUDI SQ8",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "AUDI",
+                "Model": "AUDI TT",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "AUDI",
+                "Model": "AUDI TT ROADSTER",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "AUDI",
+                "Model": "AUDI TT RS",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "AUDI",
+                "Model": "AUDI TTS",
+                "VehicleId": 0
+            }
+        ]
+    },
+    {
+        "Count": 9,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "ModelYear": 2022,
+                "Make": "BENTLEY",
+                "Model": "BENTAYGA HYBRID",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "BENTLEY",
+                "Model": "BENTAYGA SPEED",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "BENTLEY",
+                "Model": "BENTAYGA V8",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "BENTLEY",
+                "Model": "CONTINENTAL GT",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "BENTLEY",
+                "Model": "CONTINENTAL GT SPEED",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "BENTLEY",
+                "Model": "CONTINENTAL GT V8",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "BENTLEY",
+                "Model": "FLYING SPUR",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "BENTLEY",
+                "Model": "FLYING SPUR HYBRID",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "BENTLEY",
+                "Model": "FLYING SPUR V8",
+                "VehicleId": 0
+            }
+        ]
+    },
+    {
+        "Count": 35,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "ModelYear": 2022,
+                "Make": "BMW",
+                "Model": "2 SERIES COUPE",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "BMW",
+                "Model": "2 SERIES GRAN COUPE",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "BMW",
+                "Model": "3 SERIES",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "BMW",
+                "Model": "330E",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "BMW",
+                "Model": "4 SERIES",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "BMW",
+                "Model": "4 SERIES GRAN COUPE",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "BMW",
+                "Model": "5 SERIES",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "BMW",
+                "Model": "530E",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "BMW",
+                "Model": "7 SERIES",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "BMW",
+                "Model": "745E XDRIVE",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "BMW",
+                "Model": "8 SERIES",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "BMW",
+                "Model": "8 SERIES GRAN COUPE",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "BMW",
+                "Model": "ALPINA B7 XDRIVE",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "BMW",
+                "Model": "ALPINA XB7",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "BMW",
+                "Model": "I4",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "BMW",
+                "Model": "IX",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "BMW",
+                "Model": "M3",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "BMW",
+                "Model": "M4",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "BMW",
+                "Model": "M4 CONVERTIBLE",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "BMW",
+                "Model": "M5",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "BMW",
+                "Model": "M8",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "BMW",
+                "Model": "M8 GRAN COUPE",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "BMW",
+                "Model": "X1",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "BMW",
+                "Model": "X2",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "BMW",
+                "Model": "X3",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "BMW",
+                "Model": "X3 M",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "BMW",
+                "Model": "X4",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "BMW",
+                "Model": "X4 M",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "BMW",
+                "Model": "X5",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "BMW",
+                "Model": "X5 HYBRID",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "BMW",
+                "Model": "X5 M",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "BMW",
+                "Model": "X6",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "BMW",
+                "Model": "X6 M",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "BMW",
+                "Model": "X7",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "BMW",
+                "Model": "Z4",
+                "VehicleId": 0
+            }
+        ]
+    },
+    {
+        "Count": 4,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "ModelYear": 2022,
+                "Make": "BUICK",
+                "Model": "ENCLAVE",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "BUICK",
+                "Model": "ENCORE",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "BUICK",
+                "Model": "ENCORE GX",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "BUICK",
+                "Model": "ENVISION",
+                "VehicleId": 0
+            }
+        ]
+    },
+    {
+        "Count": 11,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "ModelYear": 2022,
+                "Make": "CADILLAC",
+                "Model": "CT4",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "CADILLAC",
+                "Model": "CT4-V",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "CADILLAC",
+                "Model": "CT4-V BLACKWING",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "CADILLAC",
+                "Model": "CT5",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "CADILLAC",
+                "Model": "CT5-V",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "CADILLAC",
+                "Model": "CT5-V BLACKWING",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "CADILLAC",
+                "Model": "ESCALADE",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "CADILLAC",
+                "Model": "ESCALADE ESV",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "CADILLAC",
+                "Model": "XT4",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "CADILLAC",
+                "Model": "XT5",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "CADILLAC",
+                "Model": "XT6",
+                "VehicleId": 0
+            }
+        ]
+    },
+    {
+        "Count": 24,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "ModelYear": 2022,
+                "Make": "CHEVROLET",
+                "Model": "BLAZER",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "CHEVROLET",
+                "Model": "BOLT EUV",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "CHEVROLET",
+                "Model": "BOLT EV",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "CHEVROLET",
+                "Model": "CAMARO",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "CHEVROLET",
+                "Model": "CAMARO LT1",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "CHEVROLET",
+                "Model": "CAMARO SS",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "CHEVROLET",
+                "Model": "CAMARO ZL1",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "CHEVROLET",
+                "Model": "COLORADO",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "CHEVROLET",
+                "Model": "EQUINOX",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "CHEVROLET",
+                "Model": "EXPRESS CARGO 2500",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "CHEVROLET",
+                "Model": "EXPRESS CARGO 3500",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "CHEVROLET",
+                "Model": "EXPRESS PASSENGER 2500",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "CHEVROLET",
+                "Model": "EXPRESS PASSENGER 3500 - 12 PASSENGER",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "CHEVROLET",
+                "Model": "EXPRESS PASSENGER 3500 - 15 PASSENGER",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "CHEVROLET",
+                "Model": "MALIBU",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "CHEVROLET",
+                "Model": "SILVERADO 1500",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "CHEVROLET",
+                "Model": "SILVERADO 1500 LTD",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "CHEVROLET",
+                "Model": "SILVERADO 2500",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "CHEVROLET",
+                "Model": "SPARK",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "CHEVROLET",
+                "Model": "SUBURBAN",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "CHEVROLET",
+                "Model": "TAHOE",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "CHEVROLET",
+                "Model": "TRAILBLAZER",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "CHEVROLET",
+                "Model": "TRAVERSE",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "CHEVROLET",
+                "Model": "TRAX",
+                "VehicleId": 0
+            }
+        ]
+    },
+    {
+        "Count": 4,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "ModelYear": 2022,
+                "Make": "CHRYSLER",
+                "Model": "300",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "CHRYSLER",
+                "Model": "PACIFICA",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "CHRYSLER",
+                "Model": "PACIFICA HYBRID",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "CHRYSLER",
+                "Model": "VOYAGER",
+                "VehicleId": 0
+            }
+        ]
+    },
+    {
+        "Count": 11,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "ModelYear": 2022,
+                "Make": "DODGE",
+                "Model": "CHALLENGER",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "DODGE",
+                "Model": "CHALLENGER (DRIVER)",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "DODGE",
+                "Model": "CHALLENGER (FRONT SEAT)",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "DODGE",
+                "Model": "CHALLENGER SRT",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "DODGE",
+                "Model": "CHALLENGER SRT (FRONT SEAT)",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "DODGE",
+                "Model": "CHARGER",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "DODGE",
+                "Model": "CHARGER PURSUIT",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "DODGE",
+                "Model": "CHARGER SRT",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "DODGE",
+                "Model": "DURANGO",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "DODGE",
+                "Model": "DURANGO PURSUIT",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "DODGE",
+                "Model": "DURANGO SRT",
+                "VehicleId": 0
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "ModelYear": 2022,
+                "Make": "FIAT",
+                "Model": "500X",
+                "VehicleId": 0
+            }
+        ]
+    },
+    {
+        "Count": 43,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "ModelYear": 2022,
+                "Make": "FORD",
+                "Model": "BRONCO",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "FORD",
+                "Model": "BRONCO SPORT",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "FORD",
+                "Model": "ECOSPORT",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "FORD",
+                "Model": "EDGE",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "FORD",
+                "Model": "ESCAPE",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "FORD",
+                "Model": "ESCAPE HEV",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "FORD",
+                "Model": "ESCAPE PHEV",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "FORD",
+                "Model": "EXPEDITION",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "FORD",
+                "Model": "EXPEDITION EL",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "FORD",
+                "Model": "EXPLORER",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "FORD",
+                "Model": "EXPLORER HEV",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "FORD",
+                "Model": "F-150  REGULAR CAB",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "FORD",
+                "Model": "F-150  SUPER CAB",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "FORD",
+                "Model": "F-150 SUPER CAB DIESEL",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "FORD",
+                "Model": "F-150 SUPER CREW",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "FORD",
+                "Model": "F-150 SUPER CREW BATTERY ELECTRIC",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "FORD",
+                "Model": "F-150 SUPER CREW DIESEL",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "FORD",
+                "Model": "F-150 SUPER CREW HEV",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "FORD",
+                "Model": "F-250 CREW CAB",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "FORD",
+                "Model": "F-250 REGULAR CAB",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "FORD",
+                "Model": "F-250 SUPER CAB",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "FORD",
+                "Model": "F-250 TREMOR CREW CAB",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "FORD",
+                "Model": "F-350 CREW CAB",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "FORD",
+                "Model": "F-350 REGULAR CAB",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "FORD",
+                "Model": "F-350 SUPER CAB",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "FORD",
+                "Model": "GT",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "FORD",
+                "Model": "MAVERICK",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "FORD",
+                "Model": "MAVERICK HEV",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "FORD",
+                "Model": "MUSTANG",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "FORD",
+                "Model": "MUSTANG GT 500",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "FORD",
+                "Model": "MUSTANG MACH-E",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "FORD",
+                "Model": "RANGER SUPER CAB",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "FORD",
+                "Model": "RANGER SUPER CREW",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "FORD",
+                "Model": "TRANSIT CONNECT VAN",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "FORD",
+                "Model": "TRANSIT CONNECT WAGON",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "FORD",
+                "Model": "TRANSIT HIGH ROOF (8,10,12) PASS",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "FORD",
+                "Model": "TRANSIT HIGH ROOF 15 PASS",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "FORD",
+                "Model": "TRANSIT LOW ROOF (8,10,12) PASS",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "FORD",
+                "Model": "TRANSIT LOW ROOF 15 PASS",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "FORD",
+                "Model": "TRANSIT MEDIUM ROOF (8,10,12) PASS",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "FORD",
+                "Model": "TRANSIT MEDIUM ROOF 15 PASS",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "FORD",
+                "Model": "TRANSIT VAN",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "FORD",
+                "Model": "TRANSIT VAN BATTERY ELECTRIC",
+                "VehicleId": 0
+            }
+        ]
+    },
+    {
+        "Count": 12,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "ModelYear": 2022,
+                "Make": "FREIGHTLINER",
+                "Model": "SPRINTER 1500 CARGO VAN",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "FREIGHTLINER",
+                "Model": "SPRINTER 1500 PASSENGER VAN",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "FREIGHTLINER",
+                "Model": "SPRINTER 2500 12 PASSENGER VAN",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "FREIGHTLINER",
+                "Model": "SPRINTER 2500 15 PASSENGER VAN",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "FREIGHTLINER",
+                "Model": "SPRINTER 2500 CARGO VAN (LWB)",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "FREIGHTLINER",
+                "Model": "SPRINTER 2500 CARGO VAN (SWB)",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "FREIGHTLINER",
+                "Model": "SPRINTER 2500 CREW VAN (LWB)",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "FREIGHTLINER",
+                "Model": "SPRINTER 2500 CREW VAN (SWB)",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "FREIGHTLINER",
+                "Model": "SPRINTER 3500 CARGO VAN",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "FREIGHTLINER",
+                "Model": "SPRINTER 3500 CREW VAN",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "FREIGHTLINER",
+                "Model": "SPRINTER 4500 CARGO VAN",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "FREIGHTLINER",
+                "Model": "SPRINTER 4500 CREW VAN",
+                "VehicleId": 0
+            }
+        ]
+    },
+    {
+        "Count": 5,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "ModelYear": 2022,
+                "Make": "GENESIS",
+                "Model": "G70",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "GENESIS",
+                "Model": "G80",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "GENESIS",
+                "Model": "G90",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "GENESIS",
+                "Model": "GV70",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "GENESIS",
+                "Model": "GV80",
+                "VehicleId": 0
+            }
+        ]
+    },
+    {
+        "Count": 13,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "ModelYear": 2022,
+                "Make": "GMC",
+                "Model": "ACADIA",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "GMC",
+                "Model": "CANYON",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "GMC",
+                "Model": "SAVANA CARGO 2500",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "GMC",
+                "Model": "SAVANA CARGO 3500",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "GMC",
+                "Model": "SAVANA PASSENGER 2500",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "GMC",
+                "Model": "SAVANA PASSENGER 3500 - 12 PASSENGER",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "GMC",
+                "Model": "SAVANA PASSENGER 3500 - 15 PASSENGER",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "GMC",
+                "Model": "SIERRA 1500",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "GMC",
+                "Model": "SIERRA 1500 LIMITED",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "GMC",
+                "Model": "SIERRA 2500",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "GMC",
+                "Model": "TERRAIN",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "GMC",
+                "Model": "YUKON",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "GMC",
+                "Model": "YUKON XL",
+                "VehicleId": 0
+            }
+        ]
+    },
+    {
+        "Count": 13,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "ModelYear": 2022,
+                "Make": "HONDA",
+                "Model": "ACCORD",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "HONDA",
+                "Model": "ACCORD HYBRID",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "HONDA",
+                "Model": "CIVIC",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "HONDA",
+                "Model": "CIVIC HATCHBACK",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "HONDA",
+                "Model": "CIVIC SEDAN SI",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "HONDA",
+                "Model": "CR-V",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "HONDA",
+                "Model": "CR-V HYBRID",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "HONDA",
+                "Model": "HR-V",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "HONDA",
+                "Model": "INSIGHT",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "HONDA",
+                "Model": "ODYSSEY",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "HONDA",
+                "Model": "PASSPORT",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "HONDA",
+                "Model": "PILOT",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "HONDA",
+                "Model": "RIDGELINE",
+                "VehicleId": 0
+            }
+        ]
+    },
+    {
+        "Count": 23,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "ModelYear": 2022,
+                "Make": "HYUNDAI",
+                "Model": "ACCENT",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "HYUNDAI",
+                "Model": "ELANTRA",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "HYUNDAI",
+                "Model": "ELANTRA HYBRID",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "HYUNDAI",
+                "Model": "ELANTRA N",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "HYUNDAI",
+                "Model": "IONIQ 5",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "HYUNDAI",
+                "Model": "IONIQ HYBRID",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "HYUNDAI",
+                "Model": "IONIQ PLUG-IN HYBRID",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "HYUNDAI",
+                "Model": "KONA",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "HYUNDAI",
+                "Model": "KONA ELECTRIC",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "HYUNDAI",
+                "Model": "KONA N",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "HYUNDAI",
+                "Model": "NEXO",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "HYUNDAI",
+                "Model": "PALISADE",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "HYUNDAI",
+                "Model": "SANTA CRUZ",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "HYUNDAI",
+                "Model": "SANTA FE",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "HYUNDAI",
+                "Model": "SANTA FE HYBRID",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "HYUNDAI",
+                "Model": "SANTA FE PLUG-IN HYBRID",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "HYUNDAI",
+                "Model": "SONATA",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "HYUNDAI",
+                "Model": "SONATA HYBRID",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "HYUNDAI",
+                "Model": "TUCSON",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "HYUNDAI",
+                "Model": "TUCSON HYBRID",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "HYUNDAI",
+                "Model": "TUCSON PLUG-IN HYBRID",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "HYUNDAI",
+                "Model": "VELOSTER N",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "HYUNDAI",
+                "Model": "VENUE",
+                "VehicleId": 0
+            }
+        ]
+    },
+    {
+        "Count": 6,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "ModelYear": 2022,
+                "Make": "INFINITI",
+                "Model": "Q50",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "INFINITI",
+                "Model": "Q60 COUPE",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "INFINITI",
+                "Model": "QX50",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "INFINITI",
+                "Model": "QX55",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "INFINITI",
+                "Model": "QX60",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "INFINITI",
+                "Model": "QX80",
+                "VehicleId": 0
+            }
+        ]
+    },
+    {
+        "Count": 6,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "ModelYear": 2022,
+                "Make": "JAGUAR",
+                "Model": "E-PACE",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "JAGUAR",
+                "Model": "F- PACE",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "JAGUAR",
+                "Model": "F-TYPE CONVERTIBLE",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "JAGUAR",
+                "Model": "F-TYPE COUPE",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "JAGUAR",
+                "Model": "I-PACE",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "JAGUAR",
+                "Model": "XF",
+                "VehicleId": 0
+            }
+        ]
+    },
+    {
+        "Count": 17,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "ModelYear": 2022,
+                "Make": "JEEP",
+                "Model": "CHEROKEE",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "JEEP",
+                "Model": "COMPASS",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "JEEP",
+                "Model": "GLADIATOR",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "JEEP",
+                "Model": "GLADIATOR DIESEL",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "JEEP",
+                "Model": "GRAND CHEROKEE",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "JEEP",
+                "Model": "GRAND CHEROKEE L",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "JEEP",
+                "Model": "GRAND CHEROKEE PHEV",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "JEEP",
+                "Model": "GRAND CHEROKEE WK",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "JEEP",
+                "Model": "GRAND WAGONEER",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "JEEP",
+                "Model": "RENEGADE",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "JEEP",
+                "Model": "WAGONEER",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "JEEP",
+                "Model": "WRANGLER",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "JEEP",
+                "Model": "WRANGLER UNLIMITED",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "JEEP",
+                "Model": "WRANGLER UNLIMITED 392",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "JEEP",
+                "Model": "WRANGLER UNLIMITED DIESEL",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "JEEP",
+                "Model": "WRANGLER UNLIMITED PHEV",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "JEEP",
+                "Model": "WRANGLER UNLIMITED RHD",
+                "VehicleId": 0
+            }
+        ]
+    },
+    {
+        "Count": 16,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "ModelYear": 2022,
+                "Make": "KIA",
+                "Model": "CARNIVAL",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "KIA",
+                "Model": "EV6",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "KIA",
+                "Model": "FORTE",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "KIA",
+                "Model": "K5",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "KIA",
+                "Model": "NIRO ELECTRIC",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "KIA",
+                "Model": "NIRO HYBRID",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "KIA",
+                "Model": "NIRO PHEV",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "KIA",
+                "Model": "RIO",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "KIA",
+                "Model": "SELTOS",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "KIA",
+                "Model": "SORENTO",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "KIA",
+                "Model": "SORENTO HYBRID",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "KIA",
+                "Model": "SORENTO PLUG-IN HYBRID",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "KIA",
+                "Model": "SOUL",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "KIA",
+                "Model": "SPORTAGE",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "KIA",
+                "Model": "STINGER",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "KIA",
+                "Model": "TELLURIDE",
+                "VehicleId": 0
+            }
+        ]
+    },
+    {
+        "Count": 9,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "ModelYear": 2022,
+                "Make": "LAND ROVER",
+                "Model": "DEFENDER 110",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "LAND ROVER",
+                "Model": "DEFENDER 90",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "LAND ROVER",
+                "Model": "DISCOVERY",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "LAND ROVER",
+                "Model": "DISCOVERY SPORT",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "LAND ROVER",
+                "Model": "RANGE ROVER EVOQUE (5 DOOR)",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "LAND ROVER",
+                "Model": "RANGE ROVER LWB",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "LAND ROVER",
+                "Model": "RANGE ROVER SPORT",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "LAND ROVER",
+                "Model": "RANGE ROVER SWB",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "LAND ROVER",
+                "Model": "RANGE ROVER VELAR",
+                "VehicleId": 0
+            }
+        ]
+    },
+    {
+        "Count": 25,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "ModelYear": 2022,
+                "Make": "LEXUS",
+                "Model": "ES 250",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "LEXUS",
+                "Model": "ES 300H",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "LEXUS",
+                "Model": "ES 350",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "LEXUS",
+                "Model": "GX 460",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "LEXUS",
+                "Model": "IS 300",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "LEXUS",
+                "Model": "IS 350",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "LEXUS",
+                "Model": "IS 500",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "LEXUS",
+                "Model": "LC 500",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "LEXUS",
+                "Model": "LC 500H",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "LEXUS",
+                "Model": "LS 500",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "LEXUS",
+                "Model": "LS 500H",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "LEXUS",
+                "Model": "LX 600",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "LEXUS",
+                "Model": "NX 250",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "LEXUS",
+                "Model": "NX 350",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "LEXUS",
+                "Model": "NX 350H",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "LEXUS",
+                "Model": "NX 450H+",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "LEXUS",
+                "Model": "RC 300",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "LEXUS",
+                "Model": "RC 350",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "LEXUS",
+                "Model": "RC F",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "LEXUS",
+                "Model": "RX 350",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "LEXUS",
+                "Model": "RX 350L",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "LEXUS",
+                "Model": "RX 450H",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "LEXUS",
+                "Model": "RX 450HL",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "LEXUS",
+                "Model": "UX 200",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "LEXUS",
+                "Model": "UX 250H",
+                "VehicleId": 0
+            }
+        ]
+    },
+    {
+        "Count": 7,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "ModelYear": 2022,
+                "Make": "LINCOLN",
+                "Model": "AVIATOR",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "LINCOLN",
+                "Model": "AVIATOR PHEV",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "LINCOLN",
+                "Model": "CORSAIR",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "LINCOLN",
+                "Model": "CORSAIR PHEV",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "LINCOLN",
+                "Model": "NAUTILUS",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "LINCOLN",
+                "Model": "NAVIGATOR",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "LINCOLN",
+                "Model": "NAVIGATOR EL",
+                "VehicleId": 0
+            }
+        ]
+    },
+    {
+        "Count": 6,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "ModelYear": 2022,
+                "Make": "MAZDA",
+                "Model": "CX-30",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "MAZDA",
+                "Model": "CX-5",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "MAZDA",
+                "Model": "CX-9",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "MAZDA",
+                "Model": "MAZDA3",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "MAZDA",
+                "Model": "MX-30",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "MAZDA",
+                "Model": "MX-5",
+                "VehicleId": 0
+            }
+        ]
+    },
+    {
+        "Count": 37,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "ModelYear": 2022,
+                "Make": "MERCEDES-BENZ",
+                "Model": "A-CLASS",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "MERCEDES-BENZ",
+                "Model": "C-CLASS",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "MERCEDES-BENZ",
+                "Model": "C-CLASS CABRIOLET",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "MERCEDES-BENZ",
+                "Model": "C-CLASS COUPE",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "MERCEDES-BENZ",
+                "Model": "CLA-CLASS",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "MERCEDES-BENZ",
+                "Model": "CLS-CLASS",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "MERCEDES-BENZ",
+                "Model": "E-CLASS",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "MERCEDES-BENZ",
+                "Model": "E-CLASS CABRIOLET",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "MERCEDES-BENZ",
+                "Model": "E-CLASS COUPE",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "MERCEDES-BENZ",
+                "Model": "E-CLASS STATION WAGON",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "MERCEDES-BENZ",
+                "Model": "EQS",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "MERCEDES-BENZ",
+                "Model": "G-CLASS",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "MERCEDES-BENZ",
+                "Model": "GLA-CLASS",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "MERCEDES-BENZ",
+                "Model": "GLB-CLASS",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "MERCEDES-BENZ",
+                "Model": "GLC-CLASS",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "MERCEDES-BENZ",
+                "Model": "GLC-CLASS COUPE",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "MERCEDES-BENZ",
+                "Model": "GLE-CLASS",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "MERCEDES-BENZ",
+                "Model": "GLE-CLASS COUPE",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "MERCEDES-BENZ",
+                "Model": "GLS-CLASS",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "MERCEDES-BENZ",
+                "Model": "GT CLASS 4DR",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "MERCEDES-BENZ",
+                "Model": "MERCEDES-MAYBACH S-CLASS",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "MERCEDES-BENZ",
+                "Model": "METRIS CARGO",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "MERCEDES-BENZ",
+                "Model": "METRIS PASSENGER",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "MERCEDES-BENZ",
+                "Model": "S-CLASS",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "MERCEDES-BENZ",
+                "Model": "SL-CLASS",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "MERCEDES-BENZ",
+                "Model": "SPRINTER 1500 CARGO VAN",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "MERCEDES-BENZ",
+                "Model": "SPRINTER 1500 PASSENGER VAN",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "MERCEDES-BENZ",
+                "Model": "SPRINTER 2500 12 PASSENGER VAN",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "MERCEDES-BENZ",
+                "Model": "SPRINTER 2500 15 PASSENGER VAN",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "MERCEDES-BENZ",
+                "Model": "SPRINTER 2500 CARGO VAN (LWB)",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "MERCEDES-BENZ",
+                "Model": "SPRINTER 2500 CARGO VAN (SWB)",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "MERCEDES-BENZ",
+                "Model": "SPRINTER 2500 CREW VAN (LWB)",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "MERCEDES-BENZ",
+                "Model": "SPRINTER 2500 CREW VAN (SWB)",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "MERCEDES-BENZ",
+                "Model": "SPRINTER 3500 CARGO VAN",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "MERCEDES-BENZ",
+                "Model": "SPRINTER 3500 CREW VAN",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "MERCEDES-BENZ",
+                "Model": "SPRINTER 4500 CARGO VAN",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "MERCEDES-BENZ",
+                "Model": "SPRINTER 4500 CREW VAN",
+                "VehicleId": 0
+            }
+        ]
+    },
+    {
+        "Count": 6,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "ModelYear": 2022,
+                "Make": "MINI",
+                "Model": "CLUBMAN",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "MINI",
+                "Model": "CONVERTIBLE",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "MINI",
+                "Model": "COOPER SE",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "MINI",
+                "Model": "COUNTRYMAN",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "MINI",
+                "Model": "COUNTRYMAN SE",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "MINI",
+                "Model": "HARDTOP",
+                "VehicleId": 0
+            }
+        ]
+    },
+    {
+        "Count": 6,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "ModelYear": 2022,
+                "Make": "MITSUBISHI",
+                "Model": "ECLIPSE CROSS",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "MITSUBISHI",
+                "Model": "MIRAGE",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "MITSUBISHI",
+                "Model": "MIRAGE G4",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "MITSUBISHI",
+                "Model": "OUTLANDER",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "MITSUBISHI",
+                "Model": "OUTLANDER PHEV",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "MITSUBISHI",
+                "Model": "OUTLANDER SPORT",
+                "VehicleId": 0
+            }
+        ]
+    },
+    {
+        "Count": 16,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "ModelYear": 2022,
+                "Make": "NISSAN",
+                "Model": "ALTIMA",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "NISSAN",
+                "Model": "ARMADA",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "NISSAN",
+                "Model": "FRONTIER",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "NISSAN",
+                "Model": "KICKS",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "NISSAN",
+                "Model": "LEAF (40 KWH BATTERY)",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "NISSAN",
+                "Model": "LEAF PLUS (62 KWH BATTERY)",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "NISSAN",
+                "Model": "MAXIMA",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "NISSAN",
+                "Model": "MURANO",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "NISSAN",
+                "Model": "PATHFINDER",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "NISSAN",
+                "Model": "ROGUE",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "NISSAN",
+                "Model": "ROGUE SPORT",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "NISSAN",
+                "Model": "SENTRA",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "NISSAN",
+                "Model": "TITAN CREW CAB",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "NISSAN",
+                "Model": "TITAN KING CAB",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "NISSAN",
+                "Model": "TITAN XD CREW CAB",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "NISSAN",
+                "Model": "VERSA",
+                "VehicleId": 0
+            }
+        ]
+    },
+    {
+        "Count": 1,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "ModelYear": 2022,
+                "Make": "POLESTAR",
+                "Model": "POLESTAR 2",
+                "VehicleId": 0
+            }
+        ]
+    },
+    {
+        "Count": 76,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "ModelYear": 2022,
+                "Make": "PORSCHE",
+                "Model": "718 BOXSTER",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "PORSCHE",
+                "Model": "718 BOXSTER GTS 4.0",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "PORSCHE",
+                "Model": "718 BOXSTER S",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "PORSCHE",
+                "Model": "718 BOXSTER T",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "PORSCHE",
+                "Model": "718 CAYMAN",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "PORSCHE",
+                "Model": "718 CAYMAN GT4",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "PORSCHE",
+                "Model": "718 CAYMAN GTS 4.0",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "PORSCHE",
+                "Model": "718 CAYMAN S",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "PORSCHE",
+                "Model": "718 CAYMAN T",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "PORSCHE",
+                "Model": "718 SPYDER",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "PORSCHE",
+                "Model": "911 CARRERA",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "PORSCHE",
+                "Model": "911 CARRERA 4",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "PORSCHE",
+                "Model": "911 CARRERA 4 CABRIOLET",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "PORSCHE",
+                "Model": "911 CARRERA 4 GTS",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "PORSCHE",
+                "Model": "911 CARRERA 4 GTS CABRIOLET",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "PORSCHE",
+                "Model": "911 CARRERA 4S",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "PORSCHE",
+                "Model": "911 CARRERA 4S CABRIOLET",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "PORSCHE",
+                "Model": "911 CARRERA CABRIOLET",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "PORSCHE",
+                "Model": "911 CARRERA GTS",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "PORSCHE",
+                "Model": "911 CARRERA GTS CABRIOLET",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "PORSCHE",
+                "Model": "911 CARRERA S",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "PORSCHE",
+                "Model": "911 CARRERA S CABRIOLET",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "PORSCHE",
+                "Model": "911 GT3",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "PORSCHE",
+                "Model": "911 GT3 TOURING",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "PORSCHE",
+                "Model": "911 TARGA 4",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "PORSCHE",
+                "Model": "911 TARGA 4 GTS",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "PORSCHE",
+                "Model": "911 TARGA 4S",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "PORSCHE",
+                "Model": "911 TURBO",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "PORSCHE",
+                "Model": "911 TURBO CABRIOLET",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "PORSCHE",
+                "Model": "911 TURBO S",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "PORSCHE",
+                "Model": "911 TURBO S CABRIOLET",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "PORSCHE",
+                "Model": "BOXSTER 25 YEARS",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "PORSCHE",
+                "Model": "CAYENNE",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "PORSCHE",
+                "Model": "CAYENNE COUPE",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "PORSCHE",
+                "Model": "CAYENNE E-HYBRID",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "PORSCHE",
+                "Model": "CAYENNE E-HYBRID COUPE",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "PORSCHE",
+                "Model": "CAYENNE GTS",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "PORSCHE",
+                "Model": "CAYENNE GTS COUPE",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "PORSCHE",
+                "Model": "CAYENNE S",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "PORSCHE",
+                "Model": "CAYENNE S COUPE",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "PORSCHE",
+                "Model": "CAYENNE TURBO",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "PORSCHE",
+                "Model": "CAYENNE TURBO COUPE",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "PORSCHE",
+                "Model": "CAYENNE TURBO S E-HYBRID",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "PORSCHE",
+                "Model": "CAYENNE TURBO S E-HYBRID COUPE",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "PORSCHE",
+                "Model": "MACAN",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "PORSCHE",
+                "Model": "MACAN GTS",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "PORSCHE",
+                "Model": "MACAN S",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "PORSCHE",
+                "Model": "PANAMERA",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "PORSCHE",
+                "Model": "PANAMERA 4",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "PORSCHE",
+                "Model": "PANAMERA 4 E-HYBRID",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "PORSCHE",
+                "Model": "PANAMERA 4 E-HYBRID EXECUTIVE",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "PORSCHE",
+                "Model": "PANAMERA 4 E-HYBRID SPORT TURISMO",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "PORSCHE",
+                "Model": "PANAMERA 4 EXECUTIVE",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "PORSCHE",
+                "Model": "PANAMERA 4 SPORT TURISMO",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "PORSCHE",
+                "Model": "PANAMERA 4S",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "PORSCHE",
+                "Model": "PANAMERA 4S E-HYBRID",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "PORSCHE",
+                "Model": "PANAMERA 4S E-HYBRID EXECUTIVE",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "PORSCHE",
+                "Model": "PANAMERA 4S E-HYBRID SPORT TURISMO",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "PORSCHE",
+                "Model": "PANAMERA 4S EXECUTIVE",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "PORSCHE",
+                "Model": "PANAMERA 4S SPORT TURISMO",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "PORSCHE",
+                "Model": "PANAMERA GTS",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "PORSCHE",
+                "Model": "PANAMERA GTS SPORT TURISMO",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "PORSCHE",
+                "Model": "PANAMERA TURBO S",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "PORSCHE",
+                "Model": "PANAMERA TURBO S E-HYBRID",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "PORSCHE",
+                "Model": "PANAMERA TURBO S E-HYBRID EXECUTIVE",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "PORSCHE",
+                "Model": "PANAMERA TURBO S E-HYBRID SPORT TURISMO",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "PORSCHE",
+                "Model": "PANAMERA TURBO S EXECUTIVE",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "PORSCHE",
+                "Model": "PANAMERA TURBO S SPORT TURISMO",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "PORSCHE",
+                "Model": "TAYCAN",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "PORSCHE",
+                "Model": "TAYCAN 4 CROSS TURISMO",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "PORSCHE",
+                "Model": "TAYCAN 4S",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "PORSCHE",
+                "Model": "TAYCAN 4S CROSS TURISMO",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "PORSCHE",
+                "Model": "TAYCAN TURBO",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "PORSCHE",
+                "Model": "TAYCAN TURBO CROSS TURISMO",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "PORSCHE",
+                "Model": "TAYCAN TURBO S",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "PORSCHE",
+                "Model": "TAYCAN TURBO S CROSS TURISMO",
+                "VehicleId": 0
+            }
+        ]
+    },
+    {
+        "Count": 11,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "ModelYear": 2022,
+                "Make": "RAM",
+                "Model": "1500 CLASSIC CREW CAB",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "RAM",
+                "Model": "1500 CLASSIC QUAD CAB",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "RAM",
+                "Model": "1500 CLASSIC REGULAR CAB",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "RAM",
+                "Model": "1500 CREW CAB",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "RAM",
+                "Model": "1500 CREW CAB TRX",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "RAM",
+                "Model": "1500 QUAD CAB",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "RAM",
+                "Model": "2500 CREW CAB",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "RAM",
+                "Model": "2500 MEGA CAB",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "RAM",
+                "Model": "2500 REGULAR CAB",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "RAM",
+                "Model": "PROMASTER",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "RAM",
+                "Model": "PROMASTER CITY",
+                "VehicleId": 0
+            }
+        ]
+    },
+    {
+        "Count": 5,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "ModelYear": 2022,
+                "Make": "ROLLS-ROYCE",
+                "Model": "CULLINAN",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "ROLLS-ROYCE",
+                "Model": "GHOST",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "ROLLS-ROYCE",
+                "Model": "GHOST EWB",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "ROLLS-ROYCE",
+                "Model": "PHANTOM",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "ROLLS-ROYCE",
+                "Model": "PHANTOM EWB",
+                "VehicleId": 0
+            }
+        ]
+    },
+    {
+        "Count": 9,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "ModelYear": 2022,
+                "Make": "SUBARU",
+                "Model": "ASCENT",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "SUBARU",
+                "Model": "BRZ",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "SUBARU",
+                "Model": "CROSSTREK",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "SUBARU",
+                "Model": "CROSSTREK HYBRID",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "SUBARU",
+                "Model": "FORESTER",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "SUBARU",
+                "Model": "IMPREZA",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "SUBARU",
+                "Model": "LEGACY",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "SUBARU",
+                "Model": "OUTBACK",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "SUBARU",
+                "Model": "WRX",
+                "VehicleId": 0
+            }
+        ]
+    },
+    {
+        "Count": 3,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "ModelYear": 2022,
+                "Make": "TESLA",
+                "Model": "MODEL 3",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "TESLA",
+                "Model": "MODEL Y  5-SEAT",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "TESLA",
+                "Model": "MODEL Y 7-SEAT",
+                "VehicleId": 0
+            }
+        ]
+    },
+    {
+        "Count": 25,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "ModelYear": 2022,
+                "Make": "TOYOTA",
+                "Model": "4RUNNER",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "TOYOTA",
+                "Model": "AVALON",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "TOYOTA",
+                "Model": "AVALON HYBRID",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "TOYOTA",
+                "Model": "C-HR",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "TOYOTA",
+                "Model": "CAMRY",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "TOYOTA",
+                "Model": "CAMRY HYBRID",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "TOYOTA",
+                "Model": "COROLLA",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "TOYOTA",
+                "Model": "COROLLA CROSS",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "TOYOTA",
+                "Model": "COROLLA HATCHBACK",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "TOYOTA",
+                "Model": "COROLLA HYBRID",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "TOYOTA",
+                "Model": "GR86",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "TOYOTA",
+                "Model": "HIGHLANDER",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "TOYOTA",
+                "Model": "HIGHLANDER HYBRID",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "TOYOTA",
+                "Model": "MIRAI",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "TOYOTA",
+                "Model": "PRIUS",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "TOYOTA",
+                "Model": "PRIUS PRIME",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "TOYOTA",
+                "Model": "RAV4",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "TOYOTA",
+                "Model": "RAV4 HYBRID",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "TOYOTA",
+                "Model": "RAV4 PRIME",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "TOYOTA",
+                "Model": "SEQUOIA",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "TOYOTA",
+                "Model": "SIENNA HYBRID",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "TOYOTA",
+                "Model": "SUPRA",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "TOYOTA",
+                "Model": "TACOMA",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "TOYOTA",
+                "Model": "TUNDRA",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "TOYOTA",
+                "Model": "VENZA HYBRID",
+                "VehicleId": 0
+            }
+        ]
+    },
+    {
+        "Count": 13,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "ModelYear": 2022,
+                "Make": "VOLKSWAGEN",
+                "Model": "ARTEON SE",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "VOLKSWAGEN",
+                "Model": "ARTEON SEL PREMIUM R-LINE",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "VOLKSWAGEN",
+                "Model": "ARTEON SEL R-LINE",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "VOLKSWAGEN",
+                "Model": "ATLAS",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "VOLKSWAGEN",
+                "Model": "ATLAS CROSS SPORT",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "VOLKSWAGEN",
+                "Model": "GOLF GTI",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "VOLKSWAGEN",
+                "Model": "GOLF R",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "VOLKSWAGEN",
+                "Model": "ID.4",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "VOLKSWAGEN",
+                "Model": "JETTA",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "VOLKSWAGEN",
+                "Model": "JETTA GLI",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "VOLKSWAGEN",
+                "Model": "PASSAT",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "VOLKSWAGEN",
+                "Model": "TAOS",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "VOLKSWAGEN",
+                "Model": "TIGUAN",
+                "VehicleId": 0
+            }
+        ]
+    },
+    {
+        "Count": 23,
+        "Message": "Results returned successfully",
+        "Results": [
+            {
+                "ModelYear": 2022,
+                "Make": "VOLVO",
+                "Model": "C40 P8 RECHARGE",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "VOLVO",
+                "Model": "S60 B5 AWD",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "VOLVO",
+                "Model": "S60 B5 FWD",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "VOLVO",
+                "Model": "S60 T6 AWD",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "VOLVO",
+                "Model": "S60 T8 POLESTAR ENGINEERED",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "VOLVO",
+                "Model": "S60 T8 RECHARGE",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "VOLVO",
+                "Model": "S90 B6 AWD",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "VOLVO",
+                "Model": "S90 T8 RECHARGE",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "VOLVO",
+                "Model": "V60 CC T5 AWD",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "VOLVO",
+                "Model": "V60 T8 POLESTAR ENGINEERED",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "VOLVO",
+                "Model": "V90 CC B6 AWD",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "VOLVO",
+                "Model": "XC40 P8 RECHARGE AWD",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "VOLVO",
+                "Model": "XC40 T4 FWD",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "VOLVO",
+                "Model": "XC40 T5 AWD",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "VOLVO",
+                "Model": "XC60 B5 AWD",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "VOLVO",
+                "Model": "XC60 B5 FWD",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "VOLVO",
+                "Model": "XC60 B6 AWD",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "VOLVO",
+                "Model": "XC60 T8 POLESTAR ENGINEERED",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "VOLVO",
+                "Model": "XC60 T8 RECHARGE",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "VOLVO",
+                "Model": "XC90 T5 AWD",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "VOLVO",
+                "Model": "XC90 T5 FWD",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "VOLVO",
+                "Model": "XC90 T6 AWD",
+                "VehicleId": 0
+            },
+            {
+                "ModelYear": 2022,
+                "Make": "VOLVO",
+                "Model": "XC90 T8 RECHARGE",
+                "VehicleId": 0
+            }
+        ]
+    }
+]

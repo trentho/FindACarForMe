@@ -1,0 +1,172 @@
+{
+  "charge_stations": [
+    {
+      "business_status" : "OPERATIONAL",
+      "geometry" : {
+         "location" : {
+            "lat" : 30.2667933,
+            "lng" : -97.754031
+         },
+         "viewport" : {
+            "northeast" : {
+               "lat" : 30.26819822989273,
+               "lng" : -97.75266442010728
+            },
+            "southwest" : {
+               "lat" : 30.26549857010728,
+               "lng" : -97.75536407989273
+            }
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color" : "#7B9EB0",
+      "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name" : "ChargePoint Charging Station",
+      "opening_hours" : {
+         "open_now" : true
+      },
+      "photos" : [
+         {
+            "height" : 4032,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/106861091178175261159\"\u003eFengchao Wang\u003c/a\u003e"
+            ],
+            "photo_reference" : "AcYSjRj3pE8KQMlBnFz8UbDqn6Qnu01My-Sn-gNRSBpWl9H48VLwwNiW_KqN8S-Wd7YikedNrvEJnA5-ouu4ytumwSj1fqfAflnp_qb43fQ8Llpa_yRErIU60T9Esj7Ad51P4Tr83n8SRM7cyDBP-0eQcw2VT_QcQtf4f13uojA_x7bMhpdN",
+            "width" : 3024,
+            "image": "https://lh5.googleusercontent.com/p/AF1QipPbLiqoIkk1ZQFiWofBzpK-Q_GjbW66mZ5lVqKK=w408-h544-k-no"
+         }
+      ],
+      "place_id" : "ChIJy4IHtRG1RIYRU8eyx2-NRrQ",
+      "plus_code" : {
+         "compound_code" : "768W+P9 Austin, Texas",
+         "global_code" : "8624768W+P9"
+      },
+      "rating" : 3.5,
+      "reference" : "ChIJy4IHtRG1RIYRU8eyx2-NRrQ",
+      "scope" : "GOOGLE",
+      "types" : [ "point_of_interest", "establishment" ],
+      "user_ratings_total" : 10,
+      "vicinity" : "811 1/2 Electric Drive, Austin"
+   }
+  ],
+  "gas_stations": [
+    {
+      "business_status" : "OPERATIONAL",
+      "geometry" : {
+         "location" : {
+            "lat" : 30.2880614,
+            "lng" : -97.7449391
+         },
+         "viewport" : {
+            "northeast" : {
+               "lat" : 30.28942423029149,
+               "lng" : -97.7435109197085
+            },
+            "southwest" : {
+               "lat" : 30.2867262697085,
+               "lng" : -97.7462088802915
+            }
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/gas_station-71.png",
+      "icon_background_color" : "#909CE1",
+      "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/gas_pinlet",
+      "name" : "Shell",
+      "opening_hours" : {
+         "open_now" : true
+      },
+      "photos" : [
+         {
+            "height" : 3024,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/103301787704953985699\"\u003eVuemobi Media\u003c/a\u003e"
+            ],
+            "photo_reference" : "AcYSjRjGVM2vBqRhMm2xVhmKni-DTL-rKyHz64Eg0fbZFPmQ0QHQgbHkYNS3gKjv7z77Sp_jlJ6bbL8PKOec6hNbTcmFo_R04Zkzzk6W6VzRoSCEOJ_IDN000NzeDHbDweDzvHnNGotwBpzK38pFmv7-UEdL8Js6RMjQeUVMIHciQ5o-878H",
+            "width" : 4032,
+            "image": "https://lh5.googleusercontent.com/p/AF1QipMENyJy5WGxgXfTziOOA5Y43nmUWuI4DpkaCU2h=w408-h306-k-no"
+         }
+      ],
+      "place_id" : "ChIJJRhoz3m1RIYRg7uFRcgQ-Xo",
+      "plus_code" : {
+         "compound_code" : "77Q4+62 Austin, TX, USA",
+         "global_code" : "862477Q4+62"
+      },
+      "price_level" : 2,
+      "rating" : 3.5,
+      "reference" : "ChIJJRhoz3m1RIYRg7uFRcgQ-Xo",
+      "scope" : "GOOGLE",
+      "types" : [
+         "gas_station",
+         "convenience_store",
+         "atm",
+         "finance",
+         "restaurant",
+         "food",
+         "point_of_interest",
+         "store",
+         "establishment"
+      ],
+      "user_ratings_total" : 24,
+      "vicinity" : "2400 Rio Grande Street, Austin"
+   },
+   {
+      "business_status" : "OPERATIONAL",
+      "geometry" : {
+         "location" : {
+            "lat" : 30.27964029999999,
+            "lng" : -97.7208728
+         },
+         "viewport" : {
+            "northeast" : {
+               "lat" : 30.2810227802915,
+               "lng" : -97.7196154197085
+            },
+            "southwest" : {
+               "lat" : 30.2783248197085,
+               "lng" : -97.72231338029151
+            }
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/gas_station-71.png",
+      "icon_background_color" : "#909CE1",
+      "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/gas_pinlet",
+      "name" : "Shell",
+      "opening_hours" : {
+         "open_now" : true
+      },
+      "photos" : [
+         {
+            "height" : 3024,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/106200452757935025429\"\u003ePatrick McDonald\u003c/a\u003e"
+            ],
+            "photo_reference" : "AcYSjRi03ISE-eoVXkFMQtdwIQwLGJFLGrYWCIHkNwNF8Hfu4Br4WPeiEMx1oYHckX_uRoiyQwv2_sGIr1VbKTp11f4BOMimYL4RCh2hPitVApYC_7JyRBNWro_rlw59Qn3DRrCQk_m0fFe9sHEPjgMJIOg7SaYAgck7EmrKn-zQyiNgqjv3",
+            "width" : 4032,
+            "image": "https://lh5.googleusercontent.com/p/AF1QipNgzBtu-Ru0NicHoWuU5ZZuDNtvFaYWBbfEhLe7=w408-h306-k-no"
+         }
+      ],
+      "place_id" : "ChIJQfGiIZW1RIYRkWZINhQibW8",
+      "plus_code" : {
+         "compound_code" : "77HH+VM Austin, TX, USA",
+         "global_code" : "862477HH+VM"
+      },
+      "price_level" : 2,
+      "rating" : 3.9,
+      "reference" : "ChIJQfGiIZW1RIYRkWZINhQibW8",
+      "scope" : "GOOGLE",
+      "types" : [
+         "gas_station",
+         "convenience_store",
+         "atm",
+         "finance",
+         "food",
+         "point_of_interest",
+         "store",
+         "establishment"
+      ],
+      "user_ratings_total" : 41,
+      "vicinity" : "1901 East Martin Luther King Junior Boulevard, Austin"
+   }
+  ]
+}
+

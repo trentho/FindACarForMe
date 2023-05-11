@@ -1,0 +1,21 @@
+.graph-container-wrapper {
+    width: 100%;
+    height: 700px;
+}
+
+.graph-container {
+    width: 50%;
+    height: 100%;
+    margin: auto;
+}
+
+.page-button-wrapper {
+    text-align: center;
+}
+
+.page-button {
+    width: 100px;
+    height: 50px;
+    margin-right: 50px;
+    margin-left: 50px;
+}
